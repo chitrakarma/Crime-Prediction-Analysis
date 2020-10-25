@@ -1,0 +1,289 @@
+﻿State,Region,Types,Rate
+Lakshadweep,Arabian Sea,Assault on Women,15.2
+A&N Islands,Bay of Bengal,Assault on Women,13.4
+Chhattisgarh,Central,Assault on Women,9.2
+Madhya Pradesh,Central,Assault on Women,14
+Bihar,Eastern,Assault on Women,0.5
+Jharkhand,Eastern,Assault on Women,9
+Odisha,Eastern,Assault on Women,50.5
+West Bengal,Eastern,Assault on Women,7.2
+Arunachal Pradesh,Northeastern,Assault on Women,10.9
+Assam,Northeastern,Assault on Women,27.4
+Manipur,Northeastern,Assault on Women,3.8
+Meghalaya,Northeastern,Assault on Women,6
+Mizoram,Northeastern,Assault on Women,5.9
+Nagaland,Northeastern,Assault on Women,0.8
+Sikkim,Northeastern,Assault on Women,6.7
+Tripura,Northeastern,Assault on Women,7.8
+Chandigarh,Northern,Assault on Women,12.2
+Delhi,Northern,Assault on Women,25.3
+Haryana,Northern,Assault on Women,19.1
+Himachal Pradesh,Northern,Assault on Women,13.8
+Jammu & Kashmir,Northern,Assault on Women,22.4
+Punjab,Northern,Assault on Women,6.7
+Rajasthan,Northern,Assault on Women,23.4
+Uttar Pradesh,Northern,Assault on Women,11.1
+Uttarakhand,Northern,Assault on Women,8.7
+Andhra Pradesh,Southern,Assault on Women,17
+Karnataka,Southern,Assault on Women,15.2
+Kerala,Southern,Assault on Women,24.6
+Puducherry,Southern,Assault on Women,2.9
+Tamil Nadu,Southern,Assault on Women,2.1
+Telangana,Southern,Assault on Women,22.6
+D&N Haveli,Western,Assault on Women,1.3
+Daman & Diu,Western,Assault on Women,3.8
+Goa,Western,Assault on Women,15.6
+Gujarat,Western,Assault on Women,3.2
+Maharashtra,Western,Assault on Women,17.8
+Lakshadweep,Arabian Sea,Causing Death by Negligence,0
+A&N Islands,Bay of Bengal,Causing Death by Negligence,8
+Chhattisgarh,Central,Causing Death by Negligence,17.2
+Madhya Pradesh,Central,Causing Death by Negligence,13.8
+Bihar,Eastern,Causing Death by Negligence,6
+Jharkhand,Eastern,Causing Death by Negligence,10
+Odisha,Eastern,Causing Death by Negligence,11.9
+West Bengal,Eastern,Causing Death by Negligence,5.4
+Arunachal Pradesh,Northeastern,Causing Death by Negligence,7.9
+Assam,Northeastern,Causing Death by Negligence,10.1
+Manipur,Northeastern,Causing Death by Negligence,4.9
+Meghalaya,Northeastern,Causing Death by Negligence,4.3
+Mizoram,Northeastern,Causing Death by Negligence,4.2
+Nagaland,Northeastern,Causing Death by Negligence,1.1
+Sikkim,Northeastern,Causing Death by Negligence,9.8
+Tripura,Northeastern,Causing Death by Negligence,5.8
+Chandigarh,Northern,Causing Death by Negligence,6.9
+Delhi,Northern,Causing Death by Negligence,8.4
+Haryana,Northern,Causing Death by Negligence,18.7
+Himachal Pradesh,Northern,Causing Death by Negligence,10
+Jammu & Kashmir,Northern,Causing Death by Negligence,5.4
+Punjab,Northern,Causing Death by Negligence,10.7
+Rajasthan,Northern,Causing Death by Negligence,12.5
+Uttar Pradesh,Northern,Causing Death by Negligence,9.7
+Uttarakhand,Northern,Causing Death by Negligence,5.8
+Andhra Pradesh,Southern,Causing Death by Negligence,14.5
+Karnataka,Southern,Causing Death by Negligence,15.9
+Kerala,Southern,Causing Death by Negligence,10.1
+Puducherry,Southern,Causing Death by Negligence,8.8
+Tamil Nadu,Southern,Causing Death by Negligence,14
+Telangana,Southern,Causing Death by Negligence,18.3
+D&N Haveli,Western,Causing Death by Negligence,11
+Daman & Diu,Western,Causing Death by Negligence,7.6
+Goa,Western,Causing Death by Negligence,12.6
+Gujarat,Western,Causing Death by Negligence,10
+Maharashtra,Western,Causing Death by Negligence,10.1
+Lakshadweep,Arabian Sea,Hurt,38.2
+A&N Islands,Bay of Bengal,Hurt,28.1
+Chhattisgarh,Central,Hurt,63.8
+Madhya Pradesh,Central,Hurt,83.1
+Bihar,Eastern,Hurt,81.2
+Jharkhand,Eastern,Hurt,18.3
+Odisha,Eastern,Hurt,21.7
+West Bengal,Eastern,Hurt,30.4
+Arunachal Pradesh,Northeastern,Hurt,25.5
+Assam,Northeastern,Hurt,58.9
+Manipur,Northeastern,Hurt,6.2
+Meghalaya,Northeastern,Hurt,5.5
+Mizoram,Northeastern,Hurt,6
+Nagaland,Northeastern,Hurt,1.5
+Sikkim,Northeastern,Hurt,15.5
+Tripura,Northeastern,Hurt,38.3
+Chandigarh,Northern,Hurt,10.7
+Delhi,Northern,Hurt,23.3
+Haryana,Northern,Hurt,19.6
+Himachal Pradesh,Northern,Hurt,48.2
+Jammu & Kashmir,Northern,Hurt,19.1
+Punjab,Northern,Hurt,21
+Rajasthan,Northern,Hurt,43.8
+Uttar Pradesh,Northern,Hurt,28.6
+Uttarakhand,Northern,Hurt,6.8
+Andhra Pradesh,Southern,Hurt,40.2
+Karnataka,Southern,Hurt,26.3
+Kerala,Southern,Hurt,53.7
+Puducherry,Southern,Hurt,49.3
+Tamil Nadu,Southern,Hurt,51.5
+Telangana,Southern,Hurt,56.9
+D&N Haveli,Western,Hurt,3.1
+Daman & Diu,Western,Hurt,4.5
+Goa,Western,Hurt,22
+Gujarat,Western,Hurt,13.4
+Maharashtra,Western,Hurt,34
+Lakshadweep,Arabian Sea,Kidnapping and Abduction,0
+A&N Islands,Bay of Bengal,Kidnapping and Abduction,6.8
+Chhattisgarh,Central,Kidnapping and Abduction,9.1
+Madhya Pradesh,Central,Kidnapping and Abduction,11.9
+Bihar,Eastern,Kidnapping and Abduction,8.9
+Jharkhand,Eastern,Kidnapping and Abduction,4.8
+Odisha,Eastern,Kidnapping and Abduction,10.9
+West Bengal,Eastern,Kidnapping and Abduction,5.3
+Arunachal Pradesh,Northeastern,Kidnapping and Abduction,7.8
+Assam,Northeastern,Kidnapping and Abduction,27.4
+Manipur,Northeastern,Kidnapping and Abduction,4.1
+Meghalaya,Northeastern,Kidnapping and Abduction,4
+Mizoram,Northeastern,Kidnapping and Abduction,0.4
+Nagaland,Northeastern,Kidnapping and Abduction,3
+Sikkim,Northeastern,Kidnapping and Abduction,7.7
+Tripura,Northeastern,Kidnapping and Abduction,4.1
+Chandigarh,Northern,Kidnapping and Abduction,14.9
+Delhi,Northern,Kidnapping and Abduction,29.6
+Haryana,Northern,Kidnapping and Abduction,14
+Himachal Pradesh,Northern,Kidnapping and Abduction,6.2
+Jammu & Kashmir,Northern,Kidnapping and Abduction,7.1
+Punjab,Northern,Kidnapping and Abduction,6
+Rajasthan,Northern,Kidnapping and Abduction,10.4
+Uttar Pradesh,Northern,Kidnapping and Abduction,7.3
+Uttarakhand,Northern,Kidnapping and Abduction,8.6
+Andhra Pradesh,Southern,Kidnapping and Abduction,1.7
+Karnataka,Southern,Kidnapping and Abduction,4.7
+Kerala,Southern,Kidnapping and Abduction,1.1
+Puducherry,Southern,Kidnapping and Abduction,0.6
+Tamil Nadu,Southern,Kidnapping and Abduction,1.2
+Telangana,Southern,Kidnapping and Abduction,5.7
+D&N Haveli,Western,Kidnapping and Abduction,1.6
+Daman & Diu,Western,Kidnapping and Abduction,6.1
+Goa,Western,Kidnapping and Abduction,4.6
+Gujarat,Western,Kidnapping and Abduction,2.7
+Maharashtra,Western,Kidnapping and Abduction,9.6
+Lakshadweep,Arabian Sea,Miscellaneous IPC Crimes,30.9
+A&N Islands,Bay of Bengal,Miscellaneous IPC Crimes,56.5
+Chhattisgarh,Central,Miscellaneous IPC Crimes,43.1
+Madhya Pradesh,Central,Miscellaneous IPC Crimes,96.5
+Bihar,Eastern,Miscellaneous IPC Crimes,5.9
+Jharkhand,Eastern,Miscellaneous IPC Crimes,9.4
+Odisha,Eastern,Miscellaneous IPC Crimes,60
+West Bengal,Eastern,Miscellaneous IPC Crimes,29.6
+Arunachal Pradesh,Northeastern,Miscellaneous IPC Crimes,22
+Assam,Northeastern,Miscellaneous IPC Crimes,65.7
+Manipur,Northeastern,Miscellaneous IPC Crimes,19.3
+Meghalaya,Northeastern,Miscellaneous IPC Crimes,17
+Mizoram,Northeastern,Miscellaneous IPC Crimes,18.2
+Nagaland,Northeastern,Miscellaneous IPC Crimes,2
+Sikkim,Northeastern,Miscellaneous IPC Crimes,22.9
+Tripura,Northeastern,Miscellaneous IPC Crimes,31.5
+Chandigarh,Northern,Miscellaneous IPC Crimes,60
+Delhi,Northern,Miscellaneous IPC Crimes,111.5
+Haryana,Northern,Miscellaneous IPC Crimes,67.2
+Himachal Pradesh,Northern,Miscellaneous IPC Crimes,81.3
+Jammu & Kashmir,Northern,Miscellaneous IPC Crimes,55.5
+Punjab,Northern,Miscellaneous IPC Crimes,25.9
+Rajasthan,Northern,Miscellaneous IPC Crimes,48.3
+Uttar Pradesh,Northern,Miscellaneous IPC Crimes,38.3
+Uttarakhand,Northern,Miscellaneous IPC Crimes,12.9
+Andhra Pradesh,Southern,Miscellaneous IPC Crimes,79.1
+Karnataka,Southern,Miscellaneous IPC Crimes,59
+Kerala,Southern,Miscellaneous IPC Crimes,33.5
+Puducherry,Southern,Miscellaneous IPC Crimes,84.7
+Tamil Nadu,Southern,Miscellaneous IPC Crimes,85.2
+Telangana,Southern,Miscellaneous IPC Crimes,87.9
+D&N Haveli,Western,Miscellaneous IPC Crimes,5
+Daman & Diu,Western,Miscellaneous IPC Crimes,13
+Goa,Western,Miscellaneous IPC Crimes,37.4
+Gujarat,Western,Miscellaneous IPC Crimes,132
+Maharashtra,Western,Miscellaneous IPC Crimes,80.1
+Lakshadweep,Arabian Sea,Offences against Property,27.9
+A&N Islands,Bay of Bengal,Offences against Property,19.1
+Chhattisgarh,Central,Offences against Property,40.3
+Madhya Pradesh,Central,Offences against Property,50.2
+Bihar,Eastern,Offences against Property,37.7
+Jharkhand,Eastern,Offences against Property,38.5
+Odisha,Eastern,Offences against Property,43.7
+West Bengal,Eastern,Offences against Property,19
+Arunachal Pradesh,Northeastern,Offences against Property,56.7
+Assam,Northeastern,Offences against Property,80.3
+Manipur,Northeastern,Offences against Property,32.9
+Meghalaya,Northeastern,Offences against Property,39.2
+Mizoram,Northeastern,Offences against Property,146.5
+Nagaland,Northeastern,Offences against Property,34.2
+Sikkim,Northeastern,Offences against Property,15.3
+Tripura,Northeastern,Offences against Property,20.3
+Chandigarh,Northern,Offences against Property,93
+Delhi,Northern,Offences against Property,12.5
+Haryana,Northern,Offences against Property,127.1
+Himachal Pradesh,Northern,Offences against Property,15
+Jammu & Kashmir,Northern,Offences against Property,24.2
+Punjab,Northern,Offences against Property,42.3
+Rajasthan,Northern,Offences against Property,65.5
+Uttar Pradesh,Northern,Offences against Property,31.8
+Uttarakhand,Northern,Offences against Property,22.5
+Andhra Pradesh,Southern,Offences against Property,32.4
+Karnataka,Southern,Offences against Property,41.3
+Kerala,Southern,Offences against Property,19.5
+Puducherry,Southern,Offences against Property,37.8
+Tamil Nadu,Southern,Offences against Property,32
+Telangana,Southern,Offences against Property,50.4
+D&N Haveli,Western,Offences against Property,9.2
+Daman & Diu,Western,Offences against Property,26
+Goa,Western,Offences against Property,44.8
+Gujarat,Western,Offences against Property,29.4
+Maharashtra,Western,Offences against Property,100.3
+Lakshadweep,Arabian Sea,Offences against Public Tranquillity,35.3
+A&N Islands,Bay of Bengal,Offences against Public Tranquillity,1.8
+Chhattisgarh,Central,Offences against Public Tranquillity,2.4
+Madhya Pradesh,Central,Offences against Public Tranquillity,1.5
+Bihar,Eastern,Offences against Public Tranquillity,6.1
+Jharkhand,Eastern,Offences against Public Tranquillity,6.1
+Odisha,Eastern,Offences against Public Tranquillity,4.8
+West Bengal,Eastern,Offences against Public Tranquillity,2.5
+Arunachal Pradesh,Northeastern,Offences against Public Tranquillity,4.3
+Assam,Northeastern,Offences against Public Tranquillity,5.5
+Manipur,Northeastern,Offences against Public Tranquillity,2.6
+Meghalaya,Northeastern,Offences against Public Tranquillity,0.2
+Mizoram,Northeastern,Offences against Public Tranquillity,0.3
+Nagaland,Northeastern,Offences against Public Tranquillity,0
+Sikkim,Northeastern,Offences against Public Tranquillity,5.3
+Tripura,Northeastern,Offences against Public Tranquillity,4.5
+Chandigarh,Northern,Offences against Public Tranquillity,4.1
+Delhi,Northern,Offences against Public Tranquillity,0.3
+Haryana,Northern,Offences against Public Tranquillity,11.8
+Himachal Pradesh,Northern,Offences against Public Tranquillity,6
+Jammu & Kashmir,Northern,Offences against Public Tranquillity,7.6
+Punjab,Northern,Offences against Public Tranquillity,0.1
+Rajasthan,Northern,Offences against Public Tranquillity,4.6
+Uttar Pradesh,Northern,Offences against Public Tranquillity,2.7
+Uttarakhand,Northern,Offences against Public Tranquillity,4.9
+Andhra Pradesh,Southern,Offences against Public Tranquillity,3.2
+Karnataka,Southern,Offences against Public Tranquillity,6.8
+Kerala,Southern,Offences against Public Tranquillity,17.1
+Puducherry,Southern,Offences against Public Tranquillity,2.6
+Tamil Nadu,Southern,Offences against Public Tranquillity,7.4
+Telangana,Southern,Offences against Public Tranquillity,3.1
+D&N Haveli,Western,Offences against Public Tranquillity,2
+Daman & Diu,Western,Offences against Public Tranquillity,1.2
+Goa,Western,Offences against Public Tranquillity,7.6
+Gujarat,Western,Offences against Public Tranquillity,2.5
+Maharashtra,Western,Offences against Public Tranquillity,7.4
+Lakshadweep,Arabian Sea,Offences Relating to Documents & Property Marks,1.5
+A&N Islands,Bay of Bengal,Offences Relating to Documents & Property Marks,4
+Chhattisgarh,Central,Offences Relating to Documents & Property Marks,5.5
+Madhya Pradesh,Central,Offences Relating to Documents & Property Marks,3.3
+Bihar,Eastern,Offences Relating to Documents & Property Marks,6.7
+Jharkhand,Eastern,Offences Relating to Documents & Property Marks,9.6
+Odisha,Eastern,Offences Relating to Documents & Property Marks,8.7
+West Bengal,Eastern,Offences Relating to Documents & Property Marks,8.4
+Arunachal Pradesh,Northeastern,Offences Relating to Documents & Property Marks,8.2
+Assam,Northeastern,Offences Relating to Documents & Property Marks,21.3
+Manipur,Northeastern,Offences Relating to Documents & Property Marks,4.1
+Meghalaya,Northeastern,Offences Relating to Documents & Property Marks,7.9
+Mizoram,Northeastern,Offences Relating to Documents & Property Marks,8.1
+Nagaland,Northeastern,Offences Relating to Documents & Property Marks,4.4
+Sikkim,Northeastern,Offences Relating to Documents & Property Marks,5.3
+Tripura,Northeastern,Offences Relating to Documents & Property Marks,7.7
+Chandigarh,Northern,Offences Relating to Documents & Property Marks,12.7
+Delhi,Northern,Offences Relating to Documents & Property Marks,22.9
+Haryana,Northern,Offences Relating to Documents & Property Marks,17.1
+Himachal Pradesh,Northern,Offences Relating to Documents & Property Marks,6.7
+Jammu & Kashmir,Northern,Offences Relating to Documents & Property Marks,4.3
+Punjab,Northern,Offences Relating to Documents & Property Marks,13.8
+Rajasthan,Northern,Offences Relating to Documents & Property Marks,34.1
+Uttar Pradesh,Northern,Offences Relating to Documents & Property Marks,6.4
+Uttarakhand,Northern,Offences Relating to Documents & Property Marks,10.6
+Andhra Pradesh,Southern,Offences Relating to Documents & Property Marks,15.1
+Karnataka,Southern,Offences Relating to Documents & Property Marks,9.6
+Kerala,Southern,Offences Relating to Documents & Property Marks,18.1
+Puducherry,Southern,Offences Relating to Documents & Property Marks,4.1
+Tamil Nadu,Southern,Offences Relating to Documents & Property Marks,4.4
+Telangana,Southern,Offences Relating to Documents & Property Marks,29
+D&N Haveli,Western,Offences Relating to Documents & Property Marks,4.1
+Daman & Diu,Western,Offences Relating to Documents & Property Marks,5.7
+Goa,Western,Offences Relating to Documents & Property Marks,8.7
+Gujarat,Western,Offences Relating to Documents & Property Marks,4.8
+Maharashtra,Western,Offences Relating to Documents & Property Marks,11
