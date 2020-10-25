@@ -1,0 +1,145 @@
+﻿State,Region,Type,Population,Cases,Rate
+Lakshadweep,Arabian Sea,Murder,0.7,0,0
+Lakshadweep,Arabian Sea,Rape,0.7,0,0
+Lakshadweep,Arabian Sea,Rioting,0.7,12,7.14285714
+Lakshadweep,Arabian Sea,Robbery,0.7,0,0
+A&N Islands,Bay of Bengal,Murder,4,13,3.25
+A&N Islands,Bay of Bengal,Rape,4,13,3.25
+A&N Islands,Bay of Bengal,Rioting,4,3,0.75
+A&N Islands,Bay of Bengal,Robbery,4,0,0
+Chhattisgarh,Central,Murder,288.5,913,3.164644714
+Madhya Pradesh,Central,Murder,826.1,1795,2.172860429
+Chhattisgarh,Central,Rape,288.5,1036,3.590987868
+Madhya Pradesh,Central,Rape,826.1,2485,3.008110398
+Chhattisgarh,Central,Rioting,288.5,615,2.131715771
+Madhya Pradesh,Central,Rioting,826.1,1110,1.343662995
+Chhattisgarh,Central,Robbery,288.5,439,1.521663778
+Madhya Pradesh,Central,Robbery,826.1,1290,1.561554291
+Bihar,Eastern,Murder,1201.1,3138,2.612605112
+Jharkhand,Eastern,Murder,375.8,1626,4.326769558
+Odisha,Eastern,Murder,437.3,1356,3.100846101
+West Bengal,Eastern,Murder,971.1,1933,1.990526207
+Bihar,Eastern,Rape,1201.1,730,0.607776205
+Jharkhand,Eastern,Rape,375.8,1416,3.767961682
+Odisha,Eastern,Rape,437.3,1382,3.160301852
+West Bengal,Eastern,Rape,971.1,1069,1.10081351
+Bihar,Eastern,Rioting,1201.1,7262,6.046124386
+Jharkhand,Eastern,Rioting,375.8,2207,5.872804683
+Odisha,Eastern,Rioting,437.3,1993,4.557512005
+West Bengal,Eastern,Rioting,971.1,1728,1.779425394
+Bihar,Eastern,Robbery,1201.1,2398,1.996503205
+Jharkhand,Eastern,Robbery,375.8,666,1.772219266
+Odisha,Eastern,Robbery,437.3,2492,5.698605077
+West Bengal,Eastern,Robbery,971.1,291,0.299660179
+Arunachal Pradesh,Northeastern,Murder,15.1,60,3.973509934
+Assam,Northeastern,Murder,344.2,1235,3.588030215
+Manipur,Northeastern,Murder,31.1,56,1.800643087
+Meghalaya,Northeastern,Murder,32.3,68,2.105263158
+Mizoram,Northeastern,Murder,12,22,1.833333333
+Nagaland,Northeastern,Murder,21.6,25,1.157407407
+Sikkim,Northeastern,Murder,6.7,17,2.537313433
+Tripura,Northeastern,Murder,40,144,3.6
+Arunachal Pradesh,Northeastern,Rape,15.1,63,4.17218543
+Assam,Northeastern,Rape,344.2,1773,5.151074956
+Manipur,Northeastern,Rape,31.1,36,1.15755627
+Meghalaya,Northeastern,Rape,32.3,102,3.157894737
+Mizoram,Northeastern,Rape,12,42,3.5
+Nagaland,Northeastern,Rape,21.6,8,0.37037037
+Sikkim,Northeastern,Rape,6.7,11,1.641791045
+Tripura,Northeastern,Rape,40,88,2.2
+Arunachal Pradesh,Northeastern,Rioting,15.1,60,3.973509934
+Assam,Northeastern,Rioting,344.2,1033,3.001162115
+Manipur,Northeastern,Rioting,31.1,69,2.218649518
+Meghalaya,Northeastern,Rioting,32.3,0,0
+Mizoram,Northeastern,Rioting,12,2,0.166666667
+Nagaland,Northeastern,Rioting,21.6,1,0.046296296
+Sikkim,Northeastern,Rioting,6.7,34,5.074626866
+Tripura,Northeastern,Rioting,40,171,4.275
+Arunachal Pradesh,Northeastern,Robbery,15.1,76,5.033112583
+Assam,Northeastern,Robbery,344.2,1944,5.64787914
+Manipur,Northeastern,Robbery,31.1,2,0.064308682
+Meghalaya,Northeastern,Robbery,32.3,83,2.569659443
+Mizoram,Northeastern,Robbery,12,7,0.583333333
+Nagaland,Northeastern,Robbery,21.6,28,1.296296296
+Sikkim,Northeastern,Robbery,6.7,3,0.447761194
+Tripura,Northeastern,Robbery,40,21,0.525
+Chandigarh,Northern,Murder,11.8,26,2.203389831
+Delhi,Northern,Murder,199.4,521,2.612838516
+Haryana,Northern,Murder,288.1,1137,3.946546338
+Himachal Pradesh,Northern,Murder,73.2,70,0.956284153
+Jammu & Kashmir,Northern,Murder,135.3,119,0.879526977
+Punjab,Northern,Murder,299.4,679,2.267869071
+Rajasthan,Northern,Murder,776,1659,2.137886598
+Uttar Pradesh,Northern,Murder,2259.7,3806,1.684294375
+Uttarakhand,Northern,Murder,111.8,199,1.779964222
+Chandigarh,Northern,Rape,11.8,112,9.491525424
+Delhi,Northern,Rape,199.4,1253,6.283851555
+Haryana,Northern,Rape,288.1,1480,5.137105172
+Himachal Pradesh,Northern,Rape,73.2,359,4.904371585
+Jammu & Kashmir,Northern,Rape,135.3,223,1.648189209
+Punjab,Northern,Rape,299.4,1002,3.346693387
+Rajasthan,Northern,Rape,776,5997,7.728092784
+Uttar Pradesh,Northern,Rape,2259.7,3065,1.35637474
+Uttarakhand,Northern,Rape,111.8,526,4.704830054
+Chandigarh,Northern,Rioting,11.8,46,3.898305085
+Delhi,Northern,Rioting,199.4,23,0.115346038
+Haryana,Northern,Rioting,288.1,2268,7.872266574
+Himachal Pradesh,Northern,Rioting,73.2,372,5.081967213
+Jammu & Kashmir,Northern,Rioting,135.3,1022,7.553584627
+Punjab,Northern,Rioting,299.4,0,0
+Rajasthan,Northern,Rioting,776,392,0.505154639
+Uttar Pradesh,Northern,Rioting,2259.7,5714,2.528654246
+Uttarakhand,Northern,Rioting,111.8,521,4.660107335
+Chandigarh,Northern,Robbery,11.8,33,2.796610169
+Delhi,Northern,Robbery,199.4,1956,9.809428285
+Haryana,Northern,Robbery,288.1,620,2.152030545
+Himachal Pradesh,Northern,Robbery,73.2,12,0.163934426
+Jammu & Kashmir,Northern,Robbery,135.3,73,0.539541759
+Punjab,Northern,Robbery,299.4,91,0.303941216
+Rajasthan,Northern,Robbery,776,1421,1.831185567
+Uttar Pradesh,Northern,Robbery,2259.7,2241,0.991724565
+Uttarakhand,Northern,Robbery,111.8,175,1.56529517
+Andhra Pradesh,Southern,Murder,523.2,870,1.662844037
+Karnataka,Southern,Murder,659.7,1314,1.991814461
+Kerala,Southern,Murder,351.9,323,0.917874396
+Puducherry,Southern,Murder,15.2,29,1.907894737
+Tamil Nadu,Southern,Murder,758.1,1745,2.301807149
+Telangana,Southern,Murder,372.8,839,2.250536481
+Andhra Pradesh,Southern,Rape,523.2,1086,2.075688073
+Karnataka,Southern,Rape,659.7,505,0.765499469
+Kerala,Southern,Rape,351.9,2023,5.748792271
+Puducherry,Southern,Rape,15.2,10,0.657894737
+Tamil Nadu,Southern,Rape,758.1,362,0.477509563
+Telangana,Southern,Rape,372.8,873,2.341738197
+Andhra Pradesh,Southern,Rioting,523.2,492,0.940366972
+Karnataka,Southern,Rioting,659.7,4107,6.225557071
+Kerala,Southern,Rioting,351.9,3514,9.985791418
+Puducherry,Southern,Rioting,15.2,15,0.986842105
+Tamil Nadu,Southern,Rioting,758.1,1722,2.271468144
+Telangana,Southern,Rioting,372.8,715,1.917918455
+Andhra Pradesh,Southern,Robbery,523.2,310,0.592507645
+Karnataka,Southern,Robbery,659.7,1865,2.827042595
+Kerala,Southern,Robbery,351.9,741,2.10571185
+Puducherry,Southern,Robbery,15.2,20,1.315789474
+Tamil Nadu,Southern,Robbery,758.1,2444,3.223849096
+Telangana,Southern,Robbery,372.8,505,1.354613734
+D&N Haveli,Western,Murder,5.6,7,1.25
+Daman & Diu,Western,Murder,4.2,6,1.428571429
+Goa,Western,Murder,15.4,33,2.142857143
+Gujarat,Western,Murder,682.5,993,1.454945055
+Maharashtra,Western,Murder,1225.3,2142,1.748143312
+D&N Haveli,Western,Rape,5.6,0,0
+Daman & Diu,Western,Rape,4.2,4,0.952380952
+Goa,Western,Rape,15.4,72,4.675324675
+Gujarat,Western,Rape,682.5,528,0.773626374
+Maharashtra,Western,Rape,1225.3,2299,1.876275198
+D&N Haveli,Western,Rioting,5.6,11,1.964285714
+Daman & Diu,Western,Rioting,4.2,1,0.238095238
+Goa,Western,Rioting,15.4,103,6.688311688
+Gujarat,Western,Rioting,682.5,1353,1.982417582
+Maharashtra,Western,Rioting,1225.3,7518,6.135640251
+D&N Haveli,Western,Robbery,5.6,3,0.535714286
+Daman & Diu,Western,Robbery,4.2,6,1.428571429
+Goa,Western,Robbery,15.4,11,0.714285714
+Gujarat,Western,Robbery,682.5,1035,1.516483516
+Maharashtra,Western,Robbery,1225.3,7763,6.335591284

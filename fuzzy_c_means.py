@@ -6,24 +6,34 @@ import skfuzzy as fuzz
 
 colors = ['b', 'orange', 'g', 'r', 'c', 'm', 'y', 'k', 'Brown', 'ForestGreen']
 
-data_set = pd.read_csv('data set/Datasets for prediction/crime_head_wise.csv')
-x_axis = data_set['State']
-y_axis = data_set['Rate']
+data_set = pd.read_csv('data set/Datasets for prediction/violent_crimes.csv')
+population = data_set['Population']
+cases = data_set['Cases']
+states = data_set['State']
+regions = data_set['Region']
+rate = data_set['Rate']
 
-y = whiten(y_axis)
-# print(y_axis)
-# print(y)
-df = pd.DataFrame({'x_axis': x_axis, 'y_axis': y})
+check_list = [
+    0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3,
+    4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4,
+    5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5,
+    6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6,
+    7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7,
+]
 
-# fig0, ax0 = plt.subplots()
-# ax0.plot(x_axis, y_axis, '.')
-# ax0.set_title('Test data: 200 points x3 clusters.')
+check_list = np.array(check_list)
+states = np.array(states)
+
+# y = whiten(y_axis)
+# x = whiten(x_axis)
+
+fig0, ax0 = plt.subplots()
+for check in range(8):
+    ax0.plot(population[check == check_list], cases[check == check_list], 'o')
+    # ax0.plot(states[check == check_list], rate[check == check_list], '.')
 
 fig1, axes1 = plt.subplots(3, 3, figsize=(8, 8))
-alldata = np.vstack((x_axis, x_axis))
-
-x_axis = list(x_axis)
-y_axis = list(y_axis)
+alldata = np.vstack((population, cases))
 fpcs = []
 
 for ncenters, ax in enumerate(axes1.reshape(-1), 2):
@@ -36,8 +46,8 @@ for ncenters, ax in enumerate(axes1.reshape(-1), 2):
     # Plot assigned clusters, for each data point in training set
     cluster_membership = np.argmax(u, axis=0)
     for j in range(ncenters):
-        ax.plot(x_axis[cluster_membership == j],
-                y_axis[cluster_membership == j], '.', color=colors[j])
+        ax.plot(population[cluster_membership == j],
+                cases[cluster_membership == j], '.', color=colors[j])
 
     # Mark the center of each fuzzy cluster
     for pt in cntr:
@@ -48,8 +58,9 @@ for ncenters, ax in enumerate(axes1.reshape(-1), 2):
 
 fig1.tight_layout()
 
-plt.show()
+fig2, ax2 = plt.subplots()
+ax2.plot(np.r_[2:11], fpcs)
+ax2.set_xlabel("Number of centers")
+ax2.set_ylabel("Fuzzy partition coefficient")
 
-# print(type(df['x_axis']))
-# print(type(x_axis))
-# print(x_axis, y_axis)
+plt.show()
