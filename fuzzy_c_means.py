@@ -29,11 +29,11 @@ states = np.array(states)
 
 fig0, ax0 = plt.subplots()
 for check in range(8):
-    ax0.plot(population[check == check_list], cases[check == check_list], 'o')
-    # ax0.plot(states[check == check_list], rate[check == check_list], '.')
+    # ax0.plot(population[check == check_list], cases[check == check_list], 'o')
+    ax0.plot(population[check == check_list], rate[check == check_list], '.')
 
 fig1, axes1 = plt.subplots(3, 3, figsize=(8, 8))
-alldata = np.vstack((population, cases))
+alldata = np.vstack((population, rate))
 fpcs = []
 
 for ncenters, ax in enumerate(axes1.reshape(-1), 2):
@@ -47,7 +47,7 @@ for ncenters, ax in enumerate(axes1.reshape(-1), 2):
     cluster_membership = np.argmax(u, axis=0)
     for j in range(ncenters):
         ax.plot(population[cluster_membership == j],
-                cases[cluster_membership == j], '.', color=colors[j])
+                rate[cluster_membership == j], 'o', color=colors[j])
 
     # Mark the center of each fuzzy cluster
     for pt in cntr:
