@@ -1,0 +1,289 @@
+﻿Type,State,Population,Area,Density,Literacy Rate,Cases,Region
+0,Lakshadweep,0.7,12,2149,92.28,1,Arabian Sea
+1,Lakshadweep,0.7,12,2149,92.28,0,Arabian Sea
+2,Lakshadweep,0.7,12,2149,92.28,2,Arabian Sea
+3,Lakshadweep,0.7,12,2149,92.28,0,Arabian Sea
+4,Lakshadweep,0.7,12,2149,92.28,0,Arabian Sea
+5,Lakshadweep,0.7,12,2149,92.28,0,Arabian Sea
+6,Lakshadweep,0.7,12,2149,92.28,12,Arabian Sea
+7,Lakshadweep,0.7,12,2149,92.28,0,Arabian Sea
+0,A&N Islands,4,3185,46,86.27,5,Bay of Bengal
+1,A&N Islands,4,3185,46,86.27,9,Bay of Bengal
+2,A&N Islands,4,3185,46,86.27,42,Bay of Bengal
+3,A&N Islands,4,3185,46,86.27,27,Bay of Bengal
+4,A&N Islands,4,3185,46,86.27,13,Bay of Bengal
+5,A&N Islands,4,3185,46,86.27,13,Bay of Bengal
+6,A&N Islands,4,3185,46,86.27,3,Bay of Bengal
+7,A&N Islands,4,3185,46,86.27,0,Bay of Bengal
+0,Chhattisgarh,288.5,52198,189,71.04,291,Central
+0,Madhya Pradesh,826.1,119014,236,70.63,703,Central
+1,Chhattisgarh,288.5,52198,189,71.04,617,Central
+1,Madhya Pradesh,826.1,119014,236,70.63,1750,Central
+2,Chhattisgarh,288.5,52198,189,71.04,1082,Central
+2,Madhya Pradesh,826.1,119014,236,70.63,5094,Central
+3,Chhattisgarh,288.5,52198,189,71.04,2638,Central
+3,Madhya Pradesh,826.1,119014,236,70.63,9812,Central
+4,Chhattisgarh,288.5,52198,189,71.04,913,Central
+4,Madhya Pradesh,826.1,119014,236,70.63,1795,Central
+5,Chhattisgarh,288.5,52198,189,71.04,1036,Central
+5,Madhya Pradesh,826.1,119014,236,70.63,2485,Central
+6,Chhattisgarh,288.5,52198,189,71.04,615,Central
+6,Madhya Pradesh,826.1,119014,236,70.63,1110,Central
+7,Chhattisgarh,288.5,52198,189,71.04,439,Central
+7,Madhya Pradesh,826.1,119014,236,70.63,1290,Central
+0,Bihar,1201.1,36357,1106,63.82,271,Eastern
+0,Jharkhand,375.8,30778,414,67.63,106,Eastern
+0,Odisha,437.3,60119,270,73.45,552,Eastern
+0,West Bengal,971.1,34267,1028,77.08,511,Eastern
+1,Bihar,1201.1,36357,1106,63.82,7462,Eastern
+1,Jharkhand,375.8,30778,414,67.63,1920,Eastern
+1,Odisha,437.3,60119,270,73.45,3569,Eastern
+1,West Bengal,971.1,34267,1028,77.08,12062,Eastern
+2,Bihar,1201.1,36357,1106,63.82,10575,Eastern
+2,Jharkhand,375.8,30778,414,67.63,1698,Eastern
+2,Odisha,437.3,60119,270,73.45,4196,Eastern
+2,West Bengal,971.1,34267,1028,77.08,17969,Eastern
+3,Bihar,1201.1,36357,1106,63.82,10707,Eastern
+3,Jharkhand,375.8,30778,414,67.63,1814,Eastern
+3,Odisha,437.3,60119,270,73.45,4748,Eastern
+3,West Bengal,971.1,34267,1028,77.08,5191,Eastern
+4,Bihar,1201.1,36357,1106,63.82,3138,Eastern
+4,Jharkhand,375.8,30778,414,67.63,1626,Eastern
+4,Odisha,437.3,60119,270,73.45,1356,Eastern
+4,West Bengal,971.1,34267,1028,77.08,1933,Eastern
+5,Bihar,1201.1,36357,1106,63.82,730,Eastern
+5,Jharkhand,375.8,30778,414,67.63,1416,Eastern
+5,Odisha,437.3,60119,270,73.45,1382,Eastern
+5,West Bengal,971.1,34267,1028,77.08,1069,Eastern
+6,Bihar,1201.1,36357,1106,63.82,7262,Eastern
+6,Jharkhand,375.8,30778,414,67.63,2207,Eastern
+6,Odisha,437.3,60119,270,73.45,1993,Eastern
+6,West Bengal,971.1,34267,1028,77.08,1728,Eastern
+7,Bihar,1201.1,36357,1106,63.82,2398,Eastern
+7,Jharkhand,375.8,30778,414,67.63,666,Eastern
+7,Odisha,437.3,60119,270,73.45,2492,Eastern
+7,West Bengal,971.1,34267,1028,77.08,291,Eastern
+0,Arunachal Pradesh,15.1,32333,17,66.95,59,Northeastern
+0,Assam,344.2,30285,398,73.18,627,Northeastern
+0,Manipur,31.1,8621,128,79.85,28,Northeastern
+0,Meghalaya,32.3,8660,132,75.48,75,Northeastern
+0,Mizoram,12,8139,52,91.58,20,Northeastern
+0,Nagaland,21.6,6401,119,80.11,2,Northeastern
+0,Sikkim,6.7,2740,86,82.2,14,Northeastern
+0,Tripura,40,4049,350,87.75,77,Northeastern
+1,Arunachal Pradesh,15.1,32333,17,66.95,52,Northeastern
+1,Assam,344.2,30285,398,73.18,1366,Northeastern
+1,Manipur,31.1,8621,128,79.85,149,Northeastern
+1,Meghalaya,32.3,8660,132,75.48,64,Northeastern
+1,Mizoram,12,8139,52,91.58,14,Northeastern
+1,Nagaland,21.6,6401,119,80.11,26,Northeastern
+1,Sikkim,6.7,2740,86,82.2,14,Northeastern
+1,Tripura,40,4049,350,87.75,144,Northeastern
+2,Arunachal Pradesh,15.1,32333,17,66.95,165,Northeastern
+2,Assam,344.2,30285,398,73.18,10478,Northeastern
+2,Manipur,31.1,8621,128,79.85,186,Northeastern
+2,Meghalaya,32.3,8660,132,75.48,92,Northeastern
+2,Mizoram,12,8139,52,91.58,44,Northeastern
+2,Nagaland,21.6,6401,119,80.11,23,Northeastern
+2,Sikkim,6.7,2740,86,82.2,37,Northeastern
+2,Tripura,40,4049,350,87.75,1273,Northeastern
+3,Arunachal Pradesh,15.1,32333,17,66.95,117,Northeastern
+3,Assam,344.2,30285,398,73.18,9432,Northeastern
+3,Manipur,31.1,8621,128,79.85,129,Northeastern
+3,Meghalaya,32.3,8660,132,75.48,130,Northeastern
+3,Mizoram,12,8139,52,91.58,5,Northeastern
+3,Nagaland,21.6,6401,119,80.11,64,Northeastern
+3,Sikkim,6.7,2740,86,82.2,51,Northeastern
+3,Tripura,40,4049,350,87.75,166,Northeastern
+4,Arunachal Pradesh,15.1,32333,17,66.95,60,Northeastern
+4,Assam,344.2,30285,398,73.18,1235,Northeastern
+4,Manipur,31.1,8621,128,79.85,56,Northeastern
+4,Meghalaya,32.3,8660,132,75.48,68,Northeastern
+4,Mizoram,12,8139,52,91.58,22,Northeastern
+4,Nagaland,21.6,6401,119,80.11,25,Northeastern
+4,Sikkim,6.7,2740,86,82.2,17,Northeastern
+4,Tripura,40,4049,350,87.75,144,Northeastern
+5,Arunachal Pradesh,15.1,32333,17,66.95,63,Northeastern
+5,Assam,344.2,30285,398,73.18,1773,Northeastern
+5,Manipur,31.1,8621,128,79.85,36,Northeastern
+5,Meghalaya,32.3,8660,132,75.48,102,Northeastern
+5,Mizoram,12,8139,52,91.58,42,Northeastern
+5,Nagaland,21.6,6401,119,80.11,8,Northeastern
+5,Sikkim,6.7,2740,86,82.2,11,Northeastern
+5,Tripura,40,4049,350,87.75,88,Northeastern
+6,Arunachal Pradesh,15.1,32333,17,66.95,60,Northeastern
+6,Assam,344.2,30285,398,73.18,1033,Northeastern
+6,Manipur,31.1,8621,128,79.85,69,Northeastern
+6,Meghalaya,32.3,8660,132,75.48,0,Northeastern
+6,Mizoram,12,8139,52,91.58,2,Northeastern
+6,Nagaland,21.6,6401,119,80.11,1,Northeastern
+6,Sikkim,6.7,2740,86,82.2,34,Northeastern
+6,Tripura,40,4049,350,87.75,171,Northeastern
+7,Arunachal Pradesh,15.1,32333,17,66.95,76,Northeastern
+7,Assam,344.2,30285,398,73.18,1944,Northeastern
+7,Manipur,31.1,8621,128,79.85,2,Northeastern
+7,Meghalaya,32.3,8660,132,75.48,83,Northeastern
+7,Mizoram,12,8139,52,91.58,7,Northeastern
+7,Nagaland,21.6,6401,119,80.11,28,Northeastern
+7,Sikkim,6.7,2740,86,82.2,3,Northeastern
+7,Tripura,40,4049,350,87.75,21,Northeastern
+0,Chandigarh,11.8,44,9258,86.43,4,Northern
+0,Delhi,199.4,573,11320,86.34,89,Northern
+0,Haryana,288.1,17070,573,76.64,293,Northern
+0,Himachal Pradesh,73.2,21495,123,83.78,65,Northern
+0,Jammu & Kashmir,135.3,85806,56,68.72,177,Northern
+0,Punjab,299.4,19445,551,76.68,80,Northern
+0,Rajasthan,776,132139,200,67.06,439,Northern
+0,Uttar Pradesh,2259.7,93023,829,69.72,617,Northern
+0,Uttarakhand,111.8,20650,189,79.63,6,Northern
+1,Chandigarh,11.8,44,9258,86.43,34,Northern
+1,Delhi,199.4,573,11320,86.34,487,Northern
+1,Haryana,288.1,17070,573,76.64,923,Northern
+1,Himachal Pradesh,73.2,21495,123,83.78,54,Northern
+1,Jammu & Kashmir,135.3,53645,56,68.72,420,Northern
+1,Punjab,299.4,19445,551,76.68,840,Northern
+1,Rajasthan,776,132139,200,67.06,1905,Northern
+1,Uttar Pradesh,2259.7,93023,829,69.72,4596,Northern
+1,Uttarakhand,111.8,20650,189,79.63,161,Northern
+2,Chandigarh,11.8,44,9258,86.43,23,Northern
+2,Delhi,199.4,573,11320,86.34,527,Northern
+2,Haryana,288.1,17070,573,76.64,1389,Northern
+2,Himachal Pradesh,73.2,21495,123,83.78,416,Northern
+2,Jammu & Kashmir,135.3,85806,56,68.72,66,Northern
+2,Punjab,299.4,19445,551,76.68,1796,Northern
+2,Rajasthan,776,132139,200,67.06,896,Northern
+2,Uttar Pradesh,2259.7,93023,829,69.72,13247,Northern
+2,Uttarakhand,111.8,20650,189,79.63,138,Northern
+3,Chandigarh,11.8,44,9258,86.43,177,Northern
+3,Delhi,199.4,573,11320,86.34,5901,Northern
+3,Haryana,288.1,17070,573,76.64,4023,Northern
+3,Himachal Pradesh,73.2,21495,123,83.78,455,Northern
+3,Jammu & Kashmir,135.3,85806,56,68.72,961,Northern
+3,Punjab,299.4,19445,551,76.68,1798,Northern
+3,Rajasthan,776,132139,200,67.06,8058,Northern
+3,Uttar Pradesh,2259.7,93023,829,69.72,16590,Northern
+3,Uttarakhand,111.8,20650,189,79.63,967,Northern
+4,Chandigarh,11.8,44,9258,86.43,26,Northern
+4,Delhi,199.4,573,11320,86.34,521,Northern
+4,Haryana,288.1,17070,573,76.64,1137,Northern
+4,Himachal Pradesh,73.2,21495,123,83.78,70,Northern
+4,Jammu & Kashmir,135.3,85806,56,68.72,119,Northern
+4,Punjab,299.4,19445,551,76.68,679,Northern
+4,Rajasthan,776,132139,200,67.06,1659,Northern
+4,Uttar Pradesh,2259.7,93023,829,69.72,3806,Northern
+4,Uttarakhand,111.8,20650,189,79.63,199,Northern
+5,Chandigarh,11.8,44,9258,86.43,112,Northern
+5,Delhi,199.4,573,11320,86.34,1253,Northern
+5,Haryana,288.1,17070,573,76.64,1480,Northern
+5,Himachal Pradesh,73.2,21495,123,83.78,359,Northern
+5,Jammu & Kashmir,135.3,53645,56,68.72,223,Northern
+5,Punjab,299.4,19445,551,76.68,1002,Northern
+5,Rajasthan,776,132139,200,67.06,5997,Northern
+5,Uttar Pradesh,2259.7,93023,829,69.72,3065,Northern
+5,Uttarakhand,111.8,20650,189,79.63,526,Northern
+6,Chandigarh,11.8,44,9258,86.43,46,Northern
+6,Delhi,199.4,573,11320,86.34,23,Northern
+6,Haryana,288.1,17070,573,76.64,2268,Northern
+6,Himachal Pradesh,73.2,21495,123,83.78,372,Northern
+6,Jammu & Kashmir,135.3,53645,56,68.72,1022,Northern
+6,Punjab,299.4,19445,551,76.68,0,Northern
+6,Rajasthan,776,132139,200,67.06,392,Northern
+6,Uttar Pradesh,2259.7,93023,829,69.72,5714,Northern
+6,Uttarakhand,111.8,20650,189,79.63,521,Northern
+7,Chandigarh,11.8,44,9258,86.43,33,Northern
+7,Delhi,199.4,573,11320,86.34,1956,Northern
+7,Haryana,288.1,17070,573,76.64,620,Northern
+7,Himachal Pradesh,73.2,21495,123,83.78,12,Northern
+7,Jammu & Kashmir,135.3,53645,56,68.72,73,Northern
+7,Punjab,299.4,19445,551,76.68,91,Northern
+7,Rajasthan,776,132139,200,67.06,1421,Northern
+7,Uttar Pradesh,2259.7,93023,829,69.72,2241,Northern
+7,Uttarakhand,111.8,20650,189,79.63,175,Northern
+0,Andhra Pradesh,523.2,62922,308,67.66,473,Southern
+0,Karnataka,659.7,74051,319,75.6,284,Southern
+0,Kerala,351.9,15005,860,93.41,389,Southern
+0,Puducherry,15.2,189,2547,86.55,6,Southern
+0,Tamil Nadu,758.1,50213,555,80.33,395,Southern
+0,Telangana,372.8,43273,307,72.7,419,Southern
+1,Andhra Pradesh,523.2,62922,308,67.66,1536,Southern
+1,Karnataka,659.7,74051,319,75.6,2569,Southern
+1,Kerala,351.9,15005,860,93.41,729,Southern
+1,Puducherry,15.2,185,2547,86.55,21,Southern
+1,Tamil Nadu,758.1,50213,555,80.33,2478,Southern
+1,Telangana,372.8,43273,307,72.7,1326,Southern
+2,Andhra Pradesh,523.2,62922,308,67.66,1469,Southern
+2,Karnataka,659.7,74051,319,75.6,2181,Southern
+2,Kerala,351.9,15005,860,93.41,2182,Southern
+2,Puducherry,15.2,189,2547,86.55,31,Southern
+2,Tamil Nadu,758.1,50213,555,80.33,679,Southern
+2,Telangana,372.8,43273,307,72.7,1419,Southern
+3,Andhra Pradesh,523.2,62922,308,67.66,902,Southern
+3,Karnataka,659.7,74051,319,75.6,3080,Southern
+3,Kerala,351.9,15005,860,93.41,386,Southern
+3,Puducherry,15.2,189,2547,86.55,9,Southern
+3,Tamil Nadu,758.1,50213,555,80.33,898,Southern
+3,Telangana,372.8,43273,307,72.7,2127,Southern
+4,Andhra Pradesh,523.2,62922,308,67.66,870,Southern
+4,Karnataka,659.7,74051,319,75.6,1314,Southern
+4,Kerala,351.9,15005,860,93.41,323,Southern
+4,Puducherry,15.2,189,2547,86.55,29,Southern
+4,Tamil Nadu,758.1,50213,555,80.33,1745,Southern
+4,Telangana,372.8,43273,307,72.7,839,Southern
+5,Andhra Pradesh,523.2,62922,308,67.66,1086,Southern
+5,Karnataka,659.7,74051,319,75.6,505,Southern
+5,Kerala,351.9,15005,860,93.41,2023,Southern
+5,Puducherry,15.2,185,2547,86.55,10,Southern
+5,Tamil Nadu,758.1,50213,555,80.33,362,Southern
+5,Telangana,372.8,43273,307,72.7,873,Southern
+6,Andhra Pradesh,523.2,62922,308,67.66,492,Southern
+6,Karnataka,659.7,74051,319,75.6,4107,Southern
+6,Kerala,351.9,15005,860,93.41,3514,Southern
+6,Puducherry,15.2,185,2547,86.55,15,Southern
+6,Tamil Nadu,758.1,50213,555,80.33,1722,Southern
+6,Telangana,372.8,43273,307,72.7,715,Southern
+7,Andhra Pradesh,523.2,62922,308,67.66,310,Southern
+7,Karnataka,659.7,74051,319,75.6,1865,Southern
+7,Kerala,351.9,15005,860,93.41,741,Southern
+7,Puducherry,15.2,185,2547,86.55,20,Southern
+7,Tamil Nadu,758.1,50213,555,80.33,2444,Southern
+7,Telangana,372.8,43273,307,72.7,505,Southern
+0,D&N Haveli,5.6,190,700,77.65,1,Western
+0,Daman & Diu,4.2,40,2191,87.07,1,Western
+0,Goa,15.4,1429,394,87.4,10,Western
+0,Gujarat,682.5,75685,308,79.31,180,Western
+0,Maharashtra,1225.3,118809,365,82.91,1150,Western
+1,D&N Haveli,5.6,190,700,77.65,2,Western
+1,Daman & Diu,4.2,40,2191,87.07,9,Western
+1,Goa,15.4,1429,394,87.4,33,Western
+1,Gujarat,682.5,75685,308,79.31,910,Western
+1,Maharashtra,1225.3,118809,365,82.91,3003,Western
+2,D&N Haveli,5.6,190,700,77.65,9,Western
+2,Daman & Diu,4.2,40,2191,87.07,6,Western
+2,Goa,15.4,1429,394,87.4,76,Western
+2,Gujarat,682.5,75685,308,79.31,2271,Western
+2,Maharashtra,1225.3,118809,365,82.91,7338,Western
+3,D&N Haveli,5.6,190,700,77.65,9,Western
+3,Daman & Diu,4.2,40,2191,87.07,26,Western
+3,Goa,15.4,1429,394,87.4,71,Western
+3,Gujarat,682.5,75685,308,79.31,1813,Western
+3,Maharashtra,1225.3,118809,365,82.91,11755,Western
+4,D&N Haveli,5.6,190,700,77.65,7,Western
+4,Daman & Diu,4.2,40,2191,87.07,6,Western
+4,Goa,15.4,1429,394,87.4,33,Western
+4,Gujarat,682.5,75685,308,79.31,993,Western
+4,Maharashtra,1225.3,118809,365,82.91,2142,Western
+5,D&N Haveli,5.6,190,700,77.65,0,Western
+5,Daman & Diu,4.2,40,2191,87.07,4,Western
+5,Goa,15.4,1429,394,87.4,72,Western
+5,Gujarat,682.5,75685,308,79.31,528,Western
+5,Maharashtra,1225.3,118809,365,82.91,2299,Western
+6,D&N Haveli,5.6,190,700,77.65,11,Western
+6,Daman & Diu,4.2,40,2191,87.07,1,Western
+6,Goa,15.4,1429,394,87.4,103,Western
+6,Gujarat,682.5,75685,308,79.31,1353,Western
+6,Maharashtra,1225.3,118809,365,82.91,7518,Western
+7,D&N Haveli,5.6,190,700,77.65,3,Western
+7,Daman & Diu,4.2,40,2191,87.07,6,Western
+7,Goa,15.4,1429,394,87.4,11,Western
+7,Gujarat,682.5,75685,308,79.31,1035,Western
+7,Maharashtra,1225.3,118809,365,82.91,7763,Western
