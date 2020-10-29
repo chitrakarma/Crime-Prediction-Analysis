@@ -5,7 +5,7 @@ from sklearn.metrics import confusion_matrix, accuracy_score, f1_score, precisio
 
 np.random.seed(0)
 
-data_set = pd.read_csv('data set/test2014.csv')
+data_set = pd.read_csv('data set/Datasets for prediction/random_forest_2.csv')
 
 data_set['is_train'] = np.random.uniform(0, 1, len(data_set)) <= .75
 
@@ -49,6 +49,6 @@ print(pd.crosstab(y_test, clf.predict(X_test), rownames=['Actual'], colnames=['P
 
 print(accuracy_score(y_test, preds))
 print(f1_score(y_test, preds, average='weighted'))
-print(recall_score(y_test, preds, average='weighted'))
-print(precision_score(y_test, preds, average='weighted'))
+# print(recall_score(y_test, preds, average='weighted'))
+# print(precision_score(y_test, preds, average='weighted'))
 print(confusion_matrix(y_test, preds))

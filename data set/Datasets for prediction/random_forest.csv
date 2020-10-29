@@ -1,289 +1,505 @@
-﻿Type,State,Population,Area,Density,Literacy Rate,Cases,Region
-0,Lakshadweep,0.7,12,2149,92.28,1,Arabian Sea
-1,Lakshadweep,0.7,12,2149,92.28,0,Arabian Sea
-2,Lakshadweep,0.7,12,2149,92.28,2,Arabian Sea
-3,Lakshadweep,0.7,12,2149,92.28,0,Arabian Sea
-4,Lakshadweep,0.7,12,2149,92.28,0,Arabian Sea
-5,Lakshadweep,0.7,12,2149,92.28,0,Arabian Sea
-6,Lakshadweep,0.7,12,2149,92.28,12,Arabian Sea
-7,Lakshadweep,0.7,12,2149,92.28,0,Arabian Sea
-0,A&N Islands,4,3185,46,86.27,5,Bay of Bengal
-1,A&N Islands,4,3185,46,86.27,9,Bay of Bengal
-2,A&N Islands,4,3185,46,86.27,42,Bay of Bengal
-3,A&N Islands,4,3185,46,86.27,27,Bay of Bengal
-4,A&N Islands,4,3185,46,86.27,13,Bay of Bengal
-5,A&N Islands,4,3185,46,86.27,13,Bay of Bengal
-6,A&N Islands,4,3185,46,86.27,3,Bay of Bengal
-7,A&N Islands,4,3185,46,86.27,0,Bay of Bengal
-0,Chhattisgarh,288.5,52198,189,71.04,291,Central
-0,Madhya Pradesh,826.1,119014,236,70.63,703,Central
-1,Chhattisgarh,288.5,52198,189,71.04,617,Central
-1,Madhya Pradesh,826.1,119014,236,70.63,1750,Central
-2,Chhattisgarh,288.5,52198,189,71.04,1082,Central
-2,Madhya Pradesh,826.1,119014,236,70.63,5094,Central
-3,Chhattisgarh,288.5,52198,189,71.04,2638,Central
-3,Madhya Pradesh,826.1,119014,236,70.63,9812,Central
-4,Chhattisgarh,288.5,52198,189,71.04,913,Central
-4,Madhya Pradesh,826.1,119014,236,70.63,1795,Central
-5,Chhattisgarh,288.5,52198,189,71.04,1036,Central
-5,Madhya Pradesh,826.1,119014,236,70.63,2485,Central
-6,Chhattisgarh,288.5,52198,189,71.04,615,Central
-6,Madhya Pradesh,826.1,119014,236,70.63,1110,Central
-7,Chhattisgarh,288.5,52198,189,71.04,439,Central
-7,Madhya Pradesh,826.1,119014,236,70.63,1290,Central
-0,Bihar,1201.1,36357,1106,63.82,271,Eastern
-0,Jharkhand,375.8,30778,414,67.63,106,Eastern
-0,Odisha,437.3,60119,270,73.45,552,Eastern
-0,West Bengal,971.1,34267,1028,77.08,511,Eastern
-1,Bihar,1201.1,36357,1106,63.82,7462,Eastern
-1,Jharkhand,375.8,30778,414,67.63,1920,Eastern
-1,Odisha,437.3,60119,270,73.45,3569,Eastern
-1,West Bengal,971.1,34267,1028,77.08,12062,Eastern
-2,Bihar,1201.1,36357,1106,63.82,10575,Eastern
-2,Jharkhand,375.8,30778,414,67.63,1698,Eastern
-2,Odisha,437.3,60119,270,73.45,4196,Eastern
-2,West Bengal,971.1,34267,1028,77.08,17969,Eastern
-3,Bihar,1201.1,36357,1106,63.82,10707,Eastern
-3,Jharkhand,375.8,30778,414,67.63,1814,Eastern
-3,Odisha,437.3,60119,270,73.45,4748,Eastern
-3,West Bengal,971.1,34267,1028,77.08,5191,Eastern
-4,Bihar,1201.1,36357,1106,63.82,3138,Eastern
-4,Jharkhand,375.8,30778,414,67.63,1626,Eastern
-4,Odisha,437.3,60119,270,73.45,1356,Eastern
-4,West Bengal,971.1,34267,1028,77.08,1933,Eastern
-5,Bihar,1201.1,36357,1106,63.82,730,Eastern
-5,Jharkhand,375.8,30778,414,67.63,1416,Eastern
-5,Odisha,437.3,60119,270,73.45,1382,Eastern
-5,West Bengal,971.1,34267,1028,77.08,1069,Eastern
-6,Bihar,1201.1,36357,1106,63.82,7262,Eastern
-6,Jharkhand,375.8,30778,414,67.63,2207,Eastern
-6,Odisha,437.3,60119,270,73.45,1993,Eastern
-6,West Bengal,971.1,34267,1028,77.08,1728,Eastern
-7,Bihar,1201.1,36357,1106,63.82,2398,Eastern
-7,Jharkhand,375.8,30778,414,67.63,666,Eastern
-7,Odisha,437.3,60119,270,73.45,2492,Eastern
-7,West Bengal,971.1,34267,1028,77.08,291,Eastern
-0,Arunachal Pradesh,15.1,32333,17,66.95,59,Northeastern
-0,Assam,344.2,30285,398,73.18,627,Northeastern
-0,Manipur,31.1,8621,128,79.85,28,Northeastern
-0,Meghalaya,32.3,8660,132,75.48,75,Northeastern
-0,Mizoram,12,8139,52,91.58,20,Northeastern
-0,Nagaland,21.6,6401,119,80.11,2,Northeastern
-0,Sikkim,6.7,2740,86,82.2,14,Northeastern
-0,Tripura,40,4049,350,87.75,77,Northeastern
-1,Arunachal Pradesh,15.1,32333,17,66.95,52,Northeastern
-1,Assam,344.2,30285,398,73.18,1366,Northeastern
-1,Manipur,31.1,8621,128,79.85,149,Northeastern
-1,Meghalaya,32.3,8660,132,75.48,64,Northeastern
-1,Mizoram,12,8139,52,91.58,14,Northeastern
-1,Nagaland,21.6,6401,119,80.11,26,Northeastern
-1,Sikkim,6.7,2740,86,82.2,14,Northeastern
-1,Tripura,40,4049,350,87.75,144,Northeastern
-2,Arunachal Pradesh,15.1,32333,17,66.95,165,Northeastern
-2,Assam,344.2,30285,398,73.18,10478,Northeastern
-2,Manipur,31.1,8621,128,79.85,186,Northeastern
-2,Meghalaya,32.3,8660,132,75.48,92,Northeastern
-2,Mizoram,12,8139,52,91.58,44,Northeastern
-2,Nagaland,21.6,6401,119,80.11,23,Northeastern
-2,Sikkim,6.7,2740,86,82.2,37,Northeastern
-2,Tripura,40,4049,350,87.75,1273,Northeastern
-3,Arunachal Pradesh,15.1,32333,17,66.95,117,Northeastern
-3,Assam,344.2,30285,398,73.18,9432,Northeastern
-3,Manipur,31.1,8621,128,79.85,129,Northeastern
-3,Meghalaya,32.3,8660,132,75.48,130,Northeastern
-3,Mizoram,12,8139,52,91.58,5,Northeastern
-3,Nagaland,21.6,6401,119,80.11,64,Northeastern
-3,Sikkim,6.7,2740,86,82.2,51,Northeastern
-3,Tripura,40,4049,350,87.75,166,Northeastern
-4,Arunachal Pradesh,15.1,32333,17,66.95,60,Northeastern
-4,Assam,344.2,30285,398,73.18,1235,Northeastern
-4,Manipur,31.1,8621,128,79.85,56,Northeastern
-4,Meghalaya,32.3,8660,132,75.48,68,Northeastern
-4,Mizoram,12,8139,52,91.58,22,Northeastern
-4,Nagaland,21.6,6401,119,80.11,25,Northeastern
-4,Sikkim,6.7,2740,86,82.2,17,Northeastern
-4,Tripura,40,4049,350,87.75,144,Northeastern
-5,Arunachal Pradesh,15.1,32333,17,66.95,63,Northeastern
-5,Assam,344.2,30285,398,73.18,1773,Northeastern
-5,Manipur,31.1,8621,128,79.85,36,Northeastern
-5,Meghalaya,32.3,8660,132,75.48,102,Northeastern
-5,Mizoram,12,8139,52,91.58,42,Northeastern
-5,Nagaland,21.6,6401,119,80.11,8,Northeastern
-5,Sikkim,6.7,2740,86,82.2,11,Northeastern
-5,Tripura,40,4049,350,87.75,88,Northeastern
-6,Arunachal Pradesh,15.1,32333,17,66.95,60,Northeastern
-6,Assam,344.2,30285,398,73.18,1033,Northeastern
-6,Manipur,31.1,8621,128,79.85,69,Northeastern
-6,Meghalaya,32.3,8660,132,75.48,0,Northeastern
-6,Mizoram,12,8139,52,91.58,2,Northeastern
-6,Nagaland,21.6,6401,119,80.11,1,Northeastern
-6,Sikkim,6.7,2740,86,82.2,34,Northeastern
-6,Tripura,40,4049,350,87.75,171,Northeastern
-7,Arunachal Pradesh,15.1,32333,17,66.95,76,Northeastern
-7,Assam,344.2,30285,398,73.18,1944,Northeastern
-7,Manipur,31.1,8621,128,79.85,2,Northeastern
-7,Meghalaya,32.3,8660,132,75.48,83,Northeastern
-7,Mizoram,12,8139,52,91.58,7,Northeastern
-7,Nagaland,21.6,6401,119,80.11,28,Northeastern
-7,Sikkim,6.7,2740,86,82.2,3,Northeastern
-7,Tripura,40,4049,350,87.75,21,Northeastern
-0,Chandigarh,11.8,44,9258,86.43,4,Northern
-0,Delhi,199.4,573,11320,86.34,89,Northern
-0,Haryana,288.1,17070,573,76.64,293,Northern
-0,Himachal Pradesh,73.2,21495,123,83.78,65,Northern
-0,Jammu & Kashmir,135.3,85806,56,68.72,177,Northern
-0,Punjab,299.4,19445,551,76.68,80,Northern
-0,Rajasthan,776,132139,200,67.06,439,Northern
-0,Uttar Pradesh,2259.7,93023,829,69.72,617,Northern
-0,Uttarakhand,111.8,20650,189,79.63,6,Northern
-1,Chandigarh,11.8,44,9258,86.43,34,Northern
-1,Delhi,199.4,573,11320,86.34,487,Northern
-1,Haryana,288.1,17070,573,76.64,923,Northern
-1,Himachal Pradesh,73.2,21495,123,83.78,54,Northern
-1,Jammu & Kashmir,135.3,53645,56,68.72,420,Northern
-1,Punjab,299.4,19445,551,76.68,840,Northern
-1,Rajasthan,776,132139,200,67.06,1905,Northern
-1,Uttar Pradesh,2259.7,93023,829,69.72,4596,Northern
-1,Uttarakhand,111.8,20650,189,79.63,161,Northern
-2,Chandigarh,11.8,44,9258,86.43,23,Northern
-2,Delhi,199.4,573,11320,86.34,527,Northern
-2,Haryana,288.1,17070,573,76.64,1389,Northern
-2,Himachal Pradesh,73.2,21495,123,83.78,416,Northern
-2,Jammu & Kashmir,135.3,85806,56,68.72,66,Northern
-2,Punjab,299.4,19445,551,76.68,1796,Northern
-2,Rajasthan,776,132139,200,67.06,896,Northern
-2,Uttar Pradesh,2259.7,93023,829,69.72,13247,Northern
-2,Uttarakhand,111.8,20650,189,79.63,138,Northern
-3,Chandigarh,11.8,44,9258,86.43,177,Northern
-3,Delhi,199.4,573,11320,86.34,5901,Northern
-3,Haryana,288.1,17070,573,76.64,4023,Northern
-3,Himachal Pradesh,73.2,21495,123,83.78,455,Northern
-3,Jammu & Kashmir,135.3,85806,56,68.72,961,Northern
-3,Punjab,299.4,19445,551,76.68,1798,Northern
-3,Rajasthan,776,132139,200,67.06,8058,Northern
-3,Uttar Pradesh,2259.7,93023,829,69.72,16590,Northern
-3,Uttarakhand,111.8,20650,189,79.63,967,Northern
-4,Chandigarh,11.8,44,9258,86.43,26,Northern
-4,Delhi,199.4,573,11320,86.34,521,Northern
-4,Haryana,288.1,17070,573,76.64,1137,Northern
-4,Himachal Pradesh,73.2,21495,123,83.78,70,Northern
-4,Jammu & Kashmir,135.3,85806,56,68.72,119,Northern
-4,Punjab,299.4,19445,551,76.68,679,Northern
-4,Rajasthan,776,132139,200,67.06,1659,Northern
-4,Uttar Pradesh,2259.7,93023,829,69.72,3806,Northern
-4,Uttarakhand,111.8,20650,189,79.63,199,Northern
-5,Chandigarh,11.8,44,9258,86.43,112,Northern
-5,Delhi,199.4,573,11320,86.34,1253,Northern
-5,Haryana,288.1,17070,573,76.64,1480,Northern
-5,Himachal Pradesh,73.2,21495,123,83.78,359,Northern
-5,Jammu & Kashmir,135.3,53645,56,68.72,223,Northern
-5,Punjab,299.4,19445,551,76.68,1002,Northern
-5,Rajasthan,776,132139,200,67.06,5997,Northern
-5,Uttar Pradesh,2259.7,93023,829,69.72,3065,Northern
-5,Uttarakhand,111.8,20650,189,79.63,526,Northern
-6,Chandigarh,11.8,44,9258,86.43,46,Northern
-6,Delhi,199.4,573,11320,86.34,23,Northern
-6,Haryana,288.1,17070,573,76.64,2268,Northern
-6,Himachal Pradesh,73.2,21495,123,83.78,372,Northern
-6,Jammu & Kashmir,135.3,53645,56,68.72,1022,Northern
-6,Punjab,299.4,19445,551,76.68,0,Northern
-6,Rajasthan,776,132139,200,67.06,392,Northern
-6,Uttar Pradesh,2259.7,93023,829,69.72,5714,Northern
-6,Uttarakhand,111.8,20650,189,79.63,521,Northern
-7,Chandigarh,11.8,44,9258,86.43,33,Northern
-7,Delhi,199.4,573,11320,86.34,1956,Northern
-7,Haryana,288.1,17070,573,76.64,620,Northern
-7,Himachal Pradesh,73.2,21495,123,83.78,12,Northern
-7,Jammu & Kashmir,135.3,53645,56,68.72,73,Northern
-7,Punjab,299.4,19445,551,76.68,91,Northern
-7,Rajasthan,776,132139,200,67.06,1421,Northern
-7,Uttar Pradesh,2259.7,93023,829,69.72,2241,Northern
-7,Uttarakhand,111.8,20650,189,79.63,175,Northern
-0,Andhra Pradesh,523.2,62922,308,67.66,473,Southern
-0,Karnataka,659.7,74051,319,75.6,284,Southern
-0,Kerala,351.9,15005,860,93.41,389,Southern
-0,Puducherry,15.2,189,2547,86.55,6,Southern
-0,Tamil Nadu,758.1,50213,555,80.33,395,Southern
-0,Telangana,372.8,43273,307,72.7,419,Southern
-1,Andhra Pradesh,523.2,62922,308,67.66,1536,Southern
-1,Karnataka,659.7,74051,319,75.6,2569,Southern
-1,Kerala,351.9,15005,860,93.41,729,Southern
-1,Puducherry,15.2,185,2547,86.55,21,Southern
-1,Tamil Nadu,758.1,50213,555,80.33,2478,Southern
-1,Telangana,372.8,43273,307,72.7,1326,Southern
-2,Andhra Pradesh,523.2,62922,308,67.66,1469,Southern
-2,Karnataka,659.7,74051,319,75.6,2181,Southern
-2,Kerala,351.9,15005,860,93.41,2182,Southern
-2,Puducherry,15.2,189,2547,86.55,31,Southern
-2,Tamil Nadu,758.1,50213,555,80.33,679,Southern
-2,Telangana,372.8,43273,307,72.7,1419,Southern
-3,Andhra Pradesh,523.2,62922,308,67.66,902,Southern
-3,Karnataka,659.7,74051,319,75.6,3080,Southern
-3,Kerala,351.9,15005,860,93.41,386,Southern
-3,Puducherry,15.2,189,2547,86.55,9,Southern
-3,Tamil Nadu,758.1,50213,555,80.33,898,Southern
-3,Telangana,372.8,43273,307,72.7,2127,Southern
-4,Andhra Pradesh,523.2,62922,308,67.66,870,Southern
-4,Karnataka,659.7,74051,319,75.6,1314,Southern
-4,Kerala,351.9,15005,860,93.41,323,Southern
-4,Puducherry,15.2,189,2547,86.55,29,Southern
-4,Tamil Nadu,758.1,50213,555,80.33,1745,Southern
-4,Telangana,372.8,43273,307,72.7,839,Southern
-5,Andhra Pradesh,523.2,62922,308,67.66,1086,Southern
-5,Karnataka,659.7,74051,319,75.6,505,Southern
-5,Kerala,351.9,15005,860,93.41,2023,Southern
-5,Puducherry,15.2,185,2547,86.55,10,Southern
-5,Tamil Nadu,758.1,50213,555,80.33,362,Southern
-5,Telangana,372.8,43273,307,72.7,873,Southern
-6,Andhra Pradesh,523.2,62922,308,67.66,492,Southern
-6,Karnataka,659.7,74051,319,75.6,4107,Southern
-6,Kerala,351.9,15005,860,93.41,3514,Southern
-6,Puducherry,15.2,185,2547,86.55,15,Southern
-6,Tamil Nadu,758.1,50213,555,80.33,1722,Southern
-6,Telangana,372.8,43273,307,72.7,715,Southern
-7,Andhra Pradesh,523.2,62922,308,67.66,310,Southern
-7,Karnataka,659.7,74051,319,75.6,1865,Southern
-7,Kerala,351.9,15005,860,93.41,741,Southern
-7,Puducherry,15.2,185,2547,86.55,20,Southern
-7,Tamil Nadu,758.1,50213,555,80.33,2444,Southern
-7,Telangana,372.8,43273,307,72.7,505,Southern
-0,D&N Haveli,5.6,190,700,77.65,1,Western
-0,Daman & Diu,4.2,40,2191,87.07,1,Western
-0,Goa,15.4,1429,394,87.4,10,Western
-0,Gujarat,682.5,75685,308,79.31,180,Western
-0,Maharashtra,1225.3,118809,365,82.91,1150,Western
-1,D&N Haveli,5.6,190,700,77.65,2,Western
-1,Daman & Diu,4.2,40,2191,87.07,9,Western
-1,Goa,15.4,1429,394,87.4,33,Western
-1,Gujarat,682.5,75685,308,79.31,910,Western
-1,Maharashtra,1225.3,118809,365,82.91,3003,Western
-2,D&N Haveli,5.6,190,700,77.65,9,Western
-2,Daman & Diu,4.2,40,2191,87.07,6,Western
-2,Goa,15.4,1429,394,87.4,76,Western
-2,Gujarat,682.5,75685,308,79.31,2271,Western
-2,Maharashtra,1225.3,118809,365,82.91,7338,Western
-3,D&N Haveli,5.6,190,700,77.65,9,Western
-3,Daman & Diu,4.2,40,2191,87.07,26,Western
-3,Goa,15.4,1429,394,87.4,71,Western
-3,Gujarat,682.5,75685,308,79.31,1813,Western
-3,Maharashtra,1225.3,118809,365,82.91,11755,Western
-4,D&N Haveli,5.6,190,700,77.65,7,Western
-4,Daman & Diu,4.2,40,2191,87.07,6,Western
-4,Goa,15.4,1429,394,87.4,33,Western
-4,Gujarat,682.5,75685,308,79.31,993,Western
-4,Maharashtra,1225.3,118809,365,82.91,2142,Western
-5,D&N Haveli,5.6,190,700,77.65,0,Western
-5,Daman & Diu,4.2,40,2191,87.07,4,Western
-5,Goa,15.4,1429,394,87.4,72,Western
-5,Gujarat,682.5,75685,308,79.31,528,Western
-5,Maharashtra,1225.3,118809,365,82.91,2299,Western
-6,D&N Haveli,5.6,190,700,77.65,11,Western
-6,Daman & Diu,4.2,40,2191,87.07,1,Western
-6,Goa,15.4,1429,394,87.4,103,Western
-6,Gujarat,682.5,75685,308,79.31,1353,Western
-6,Maharashtra,1225.3,118809,365,82.91,7518,Western
-7,D&N Haveli,5.6,190,700,77.65,3,Western
-7,Daman & Diu,4.2,40,2191,87.07,6,Western
-7,Goa,15.4,1429,394,87.4,11,Western
-7,Gujarat,682.5,75685,308,79.31,1035,Western
-7,Maharashtra,1225.3,118809,365,82.91,7763,Western
+Region,States/UTs,Type,Cases
+Arabian Sea,Lakshadweep,Dacoity,0
+Arabian Sea,Lakshadweep,Deaths due to negligent driving/act,0
+Arabian Sea,Lakshadweep,Dowry Deaths,0
+Arabian Sea,Lakshadweep,Grievous Hurt,1
+Arabian Sea,Lakshadweep,Hurt,1
+Arabian Sea,Lakshadweep,Incidence of Rash Driving,1
+Arabian Sea,Lakshadweep,Kidnapping & Abduction_Total,0
+Arabian Sea,Lakshadweep,Murder,0
+Arabian Sea,Lakshadweep,Offences against State,0
+Arabian Sea,Lakshadweep,Other IPC crimes,30
+Arabian Sea,Lakshadweep,Rape,1
+Arabian Sea,Lakshadweep,Riots,9
+Arabian Sea,Lakshadweep,Robbery,0
+Arabian Sea,Lakshadweep,Theft,15
+Bay of Bengal,A&N Islands,Dacoity,0
+Bay of Bengal,A&N Islands,Deaths due to negligent driving/act,20
+Bay of Bengal,A&N Islands,Dowry Deaths,3
+Bay of Bengal,A&N Islands,Grievous Hurt,29
+Bay of Bengal,A&N Islands,Hurt,29
+Bay of Bengal,A&N Islands,Incidence of Rash Driving,198
+Bay of Bengal,A&N Islands,Kidnapping & Abduction_Total,22
+Bay of Bengal,A&N Islands,Murder,8
+Bay of Bengal,A&N Islands,Offences against State,0
+Bay of Bengal,A&N Islands,Other IPC crimes,141
+Bay of Bengal,A&N Islands,Rape,32
+Bay of Bengal,A&N Islands,Riots,10
+Bay of Bengal,A&N Islands,Robbery,2
+Bay of Bengal,A&N Islands,Theft,45
+Central,Chhattisgarh,Dacoity,58
+Central,Madhya Pradesh,Dacoity,105
+Central,Chhattisgarh,Deaths due to negligent driving/act,3393
+Central,Madhya Pradesh,Deaths due to negligent driving/act,7920
+Central,Chhattisgarh,Dowry Deaths,128
+Central,Madhya Pradesh,Dowry Deaths,733
+Central,Chhattisgarh,Grievous Hurt,3961
+Central,Madhya Pradesh,Grievous Hurt,12113
+Central,Chhattisgarh,Hurt,3960
+Central,Madhya Pradesh,Hurt,12097
+Central,Chhattisgarh,Incidence of Rash Driving,7759
+Central,Madhya Pradesh,Incidence of Rash Driving,39259
+Central,Chhattisgarh,Kidnapping & Abduction_Total,2014
+Central,Madhya Pradesh,Kidnapping & Abduction_Total,7833
+Central,Chhattisgarh,Murder,998
+Central,Madhya Pradesh,Murder,2274
+Central,Madhya Pradesh,Offences against State,0
+Central,Chhattisgarh,Offences against State,7
+Central,Chhattisgarh,Other IPC crimes,21897
+Central,Madhya Pradesh,Other IPC crimes,127869
+Central,Chhattisgarh,Rape,1436
+Central,Madhya Pradesh,Rape,5076
+Central,Chhattisgarh,Riots,809
+Central,Madhya Pradesh,Riots,1850
+Central,Chhattisgarh,Robbery,405
+Central,Madhya Pradesh,Robbery,1969
+Central,Chhattisgarh,Theft,6098
+Central,Madhya Pradesh,Theft,29244
+Eastern,West Bengal,Dacoity,143
+Eastern,Jharkhand,Dacoity,244
+Eastern,Odisha,Dacoity,484
+Eastern,Bihar,Dacoity,538
+Eastern,Jharkhand,Deaths due to negligent driving/act,1635
+Eastern,Bihar,Deaths due to negligent driving/act,4332
+Eastern,Odisha,Deaths due to negligent driving/act,4355
+Eastern,West Bengal,Deaths due to negligent driving/act,5035
+Eastern,Jharkhand,Dowry Deaths,350
+Eastern,Odisha,Dowry Deaths,441
+Eastern,West Bengal,Dowry Deaths,504
+Eastern,Bihar,Dowry Deaths,1373
+Eastern,Jharkhand,Grievous Hurt,1344
+Eastern,Odisha,Grievous Hurt,5531
+Eastern,Bihar,Grievous Hurt,17351
+Eastern,West Bengal,Grievous Hurt,18236
+Eastern,Jharkhand,Hurt,1339
+Eastern,Odisha,Hurt,5519
+Eastern,Bihar,Hurt,17347
+Eastern,West Bengal,Hurt,18192
+Eastern,Jharkhand,Incidence of Rash Driving,2561
+Eastern,Bihar,Incidence of Rash Driving,3485
+Eastern,Odisha,Incidence of Rash Driving,4166
+Eastern,West Bengal,Incidence of Rash Driving,11680
+Eastern,Jharkhand,Kidnapping & Abduction_Total,1423
+Eastern,Odisha,Kidnapping & Abduction_Total,3073
+Eastern,Bihar,Kidnapping & Abduction_Total,6570
+Eastern,West Bengal,Kidnapping & Abduction_Total,7285
+Eastern,Odisha,Murder,1450
+Eastern,Jharkhand,Murder,1658
+Eastern,West Bengal,Murder,2370
+Eastern,Bihar,Murder,3403
+Eastern,Odisha,Offences against State,6
+Eastern,West Bengal,Offences against State,8
+Eastern,Jharkhand,Offences against State,18
+Eastern,Bihar,Offences against State,20
+Eastern,Jharkhand,Other IPC crimes,17075
+Eastern,Odisha,Other IPC crimes,20584
+Eastern,West Bengal,Other IPC crimes,60639
+Eastern,Bihar,Other IPC crimes,75799
+Eastern,Jharkhand,Rape,1050
+Eastern,Bihar,Rape,1127
+Eastern,Odisha,Rape,1978
+Eastern,West Bengal,Rape,3409
+Eastern,Odisha,Riots,1732
+Eastern,Jharkhand,Riots,1975
+Eastern,West Bengal,Riots,5509
+Eastern,Bihar,Riots,13566
+Eastern,Jharkhand,Robbery,521
+Eastern,West Bengal,Robbery,606
+Eastern,Bihar,Robbery,1600
+Eastern,Odisha,Robbery,1828
+Eastern,Jharkhand,Theft,7046
+Eastern,Odisha,Theft,9410
+Eastern,Bihar,Theft,22888
+Eastern,West Bengal,Theft,22915
+Manipur,Manipur,Dacoity,0
+Manipur,Mizoram,Dacoity,8
+Manipur,Nagaland,Dacoity,8
+Manipur,Meghalaya,Dacoity,56
+Manipur,Nagaland,Deaths due to negligent driving/act,17
+Manipur,Mizoram,Deaths due to negligent driving/act,58
+Manipur,Manipur,Deaths due to negligent driving/act,109
+Manipur,Meghalaya,Deaths due to negligent driving/act,124
+Manipur,Mizoram,Dowry Deaths,0
+Manipur,Nagaland,Dowry Deaths,0
+Manipur,Manipur,Dowry Deaths,1
+Manipur,Meghalaya,Dowry Deaths,1
+Manipur,Nagaland,Grievous Hurt,23
+Manipur,Mizoram,Grievous Hurt,100
+Manipur,Meghalaya,Grievous Hurt,153
+Manipur,Manipur,Grievous Hurt,274
+Manipur,Nagaland,Hurt,23
+Manipur,Mizoram,Hurt,100
+Manipur,Meghalaya,Hurt,153
+Manipur,Manipur,Hurt,274
+Manipur,Nagaland,Incidence of Rash Driving,11
+Manipur,Mizoram,Incidence of Rash Driving,20
+Manipur,Meghalaya,Incidence of Rash Driving,92
+Manipur,Manipur,Incidence of Rash Driving,635
+Manipur,Mizoram,Kidnapping & Abduction_Total,7
+Manipur,Nagaland,Kidnapping & Abduction_Total,37
+Manipur,Meghalaya,Kidnapping & Abduction_Total,179
+Manipur,Manipur,Kidnapping & Abduction_Total,182
+Manipur,Mizoram,Murder,42
+Manipur,Nagaland,Murder,58
+Manipur,Manipur,Murder,96
+Manipur,Meghalaya,Murder,159
+Manipur,Nagaland,Offences against State,0
+Manipur,Mizoram,Offences against State,1
+Manipur,Manipur,Offences against State,10
+Manipur,Meghalaya,Offences against State,32
+Manipur,Nagaland,Other IPC crimes,142
+Manipur,Mizoram,Other IPC crimes,146
+Manipur,Manipur,Other IPC crimes,404
+Manipur,Meghalaya,Other IPC crimes,823
+Manipur,Nagaland,Rape,30
+Manipur,Manipur,Rape,75
+Manipur,Meghalaya,Rape,118
+Manipur,Mizoram,Rape,120
+Manipur,Mizoram,Riots,0
+Manipur,Meghalaya,Riots,8
+Manipur,Nagaland,Riots,10
+Manipur,Manipur,Riots,101
+Manipur,Mizoram,Robbery,6
+Manipur,Manipur,Robbery,7
+Manipur,Nagaland,Robbery,38
+Manipur,Meghalaya,Robbery,97
+Manipur,Nagaland,Theft,418
+Manipur,Mizoram,Theft,852
+Manipur,Meghalaya,Theft,857
+Manipur,Manipur,Theft,1001
+Northeastern,Sikkim,Dacoity,1
+Northeastern,Tripura,Dacoity,1
+Northeastern,Arunachal Pradesh,Dacoity,12
+Northeastern,Assam,Dacoity,267
+Northeastern,Sikkim,Deaths due to negligent driving/act,46
+Northeastern,Arunachal Pradesh,Deaths due to negligent driving/act,81
+Northeastern,Tripura,Deaths due to negligent driving/act,168
+Northeastern,Assam,Deaths due to negligent driving/act,602
+Northeastern,Sikkim,Dowry Deaths,0
+Northeastern,Arunachal Pradesh,Dowry Deaths,1
+Northeastern,Tripura,Dowry Deaths,33
+Northeastern,Assam,Dowry Deaths,188
+Northeastern,Sikkim,Grievous Hurt,58
+Northeastern,Arunachal Pradesh,Grievous Hurt,247
+Northeastern,Tripura,Grievous Hurt,1232
+Northeastern,Assam,Grievous Hurt,7583
+Northeastern,Sikkim,Hurt,56
+Northeastern,Arunachal Pradesh,Hurt,247
+Northeastern,Tripura,Hurt,1228
+Northeastern,Assam,Hurt,7583
+Northeastern,Arunachal Pradesh,Incidence of Rash Driving,102
+Northeastern,Sikkim,Incidence of Rash Driving,162
+Northeastern,Tripura,Incidence of Rash Driving,548
+Northeastern,Assam,Incidence of Rash Driving,3202
+Northeastern,Sikkim,Kidnapping & Abduction_Total,20
+Northeastern,Tripura,Kidnapping & Abduction_Total,126
+Northeastern,Arunachal Pradesh,Kidnapping & Abduction_Total,146
+Northeastern,Assam,Kidnapping & Abduction_Total,4823
+Northeastern,Sikkim,Murder,12
+Northeastern,Arunachal Pradesh,Murder,86
+Northeastern,Tripura,Murder,140
+Northeastern,Assam,Murder,1451
+Northeastern,Arunachal Pradesh,Offences against State,0
+Northeastern,Sikkim,Offences against State,0
+Northeastern,Tripura,Offences against State,1
+Northeastern,Assam,Offences against State,56
+Northeastern,Sikkim,Other IPC crimes,216
+Northeastern,Tripura,Other IPC crimes,668
+Northeastern,Arunachal Pradesh,Other IPC crimes,720
+Northeastern,Assam,Other IPC crimes,29212
+Northeastern,Sikkim,Rape,47
+Northeastern,Arunachal Pradesh,Rape,83
+Northeastern,Tripura,Rape,239
+Northeastern,Assam,Rape,1980
+Northeastern,Arunachal Pradesh,Riots,33
+Northeastern,Sikkim,Riots,81
+Northeastern,Tripura,Riots,92
+Northeastern,Assam,Riots,2640
+Northeastern,Sikkim,Robbery,13
+Northeastern,Tripura,Robbery,43
+Northeastern,Arunachal Pradesh,Robbery,61
+Northeastern,Assam,Robbery,1038
+Northeastern,Sikkim,Theft,126
+Northeastern,Tripura,Theft,369
+Northeastern,Arunachal Pradesh,Theft,498
+Northeastern,Assam,Theft,12737
+Northern,Himachal Pradesh,Dacoity,4
+Northern,Chandigarh,Dacoity,6
+Northern,Jammu & Kashmir,Dacoity,6
+Northern,Uttarakhand,Dacoity,19
+Northern,Punjab,Dacoity,32
+Northern,Rajasthan,Dacoity,64
+Northern,Delhi UT,Dacoity,82
+Northern,Haryana,Dacoity,172
+Northern,Uttar Pradesh,Dacoity,294
+Northern,Chandigarh,Deaths due to negligent driving/act,89
+Northern,Uttarakhand,Deaths due to negligent driving/act,657
+Northern,Himachal Pradesh,Deaths due to negligent driving/act,730
+Northern,Jammu & Kashmir,Deaths due to negligent driving/act,766
+Northern,Delhi UT,Deaths due to negligent driving/act,1629
+Northern,Punjab,Deaths due to negligent driving/act,3173
+Northern,Haryana,Deaths due to negligent driving/act,4002
+Northern,Rajasthan,Deaths due to negligent driving/act,9096
+Northern,Uttar Pradesh,Deaths due to negligent driving/act,14486
+Northern,Himachal Pradesh,Dowry Deaths,1
+Northern,Chandigarh,Dowry Deaths,2
+Northern,Jammu & Kashmir,Dowry Deaths,5
+Northern,Uttarakhand,Dowry Deaths,38
+Northern,Punjab,Dowry Deaths,90
+Northern,Delhi UT,Dowry Deaths,153
+Northern,Haryana,Dowry Deaths,293
+Northern,Rajasthan,Dowry Deaths,408
+Northern,Uttar Pradesh,Dowry Deaths,2469
+Northern,Chandigarh,Grievous Hurt,19
+Northern,Uttarakhand,Grievous Hurt,181
+Northern,Jammu & Kashmir,Grievous Hurt,341
+Northern,Himachal Pradesh,Grievous Hurt,593
+Northern,Delhi UT,Grievous Hurt,690
+Northern,Rajasthan,Grievous Hurt,1491
+Northern,Haryana,Grievous Hurt,1671
+Northern,Punjab,Grievous Hurt,3017
+Northern,Uttar Pradesh,Grievous Hurt,10867
+Northern,Chandigarh,Hurt,19
+Northern,Uttarakhand,Hurt,181
+Northern,Jammu & Kashmir,Hurt,339
+Northern,Himachal Pradesh,Hurt,592
+Northern,Delhi UT,Hurt,659
+Northern,Rajasthan,Hurt,1485
+Northern,Haryana,Hurt,1656
+Northern,Punjab,Hurt,3000
+Northern,Uttar Pradesh,Hurt,10812
+Northern,Chandigarh,Incidence of Rash Driving,277
+Northern,Uttarakhand,Incidence of Rash Driving,485
+Northern,Punjab,Incidence of Rash Driving,1692
+Northern,Himachal Pradesh,Incidence of Rash Driving,2336
+Northern,Jammu & Kashmir,Incidence of Rash Driving,5003
+Northern,Haryana,Incidence of Rash Driving,6202
+Northern,Delhi UT,Incidence of Rash Driving,8760
+Northern,Rajasthan,Incidence of Rash Driving,14127
+Northern,Uttar Pradesh,Incidence of Rash Driving,16199
+Northern,Chandigarh,Kidnapping & Abduction_Total,187
+Northern,Himachal Pradesh,Kidnapping & Abduction_Total,304
+Northern,Uttarakhand,Kidnapping & Abduction_Total,691
+Northern,Jammu & Kashmir,Kidnapping & Abduction_Total,860
+Northern,Punjab,Kidnapping & Abduction_Total,1550
+Northern,Haryana,Kidnapping & Abduction_Total,3082
+Northern,Rajasthan,Kidnapping & Abduction_Total,5671
+Northern,Delhi UT,Kidnapping & Abduction_Total,7143
+Northern,Uttar Pradesh,Kidnapping & Abduction_Total,12361
+Northern,Chandigarh,Murder,24
+Northern,Himachal Pradesh,Murder,130
+Northern,Jammu & Kashmir,Murder,156
+Northern,Uttarakhand,Murder,218
+Northern,Delhi UT,Murder,586
+Northern,Punjab,Murder,767
+Northern,Haryana,Murder,1106
+Northern,Rajasthan,Murder,1637
+Northern,Uttar Pradesh,Murder,5150
+Northern,Chandigarh,Offences against State,0
+Northern,Delhi UT,Offences against State,0
+Northern,Haryana,Offences against State,0
+Northern,Punjab,Offences against State,0
+Northern,Rajasthan,Offences against State,0
+Northern,Uttar Pradesh,Offences against State,0
+Northern,Uttarakhand,Offences against State,0
+Northern,Himachal Pradesh,Offences against State,1
+Northern,Jammu & Kashmir,Offences against State,5
+Northern,Chandigarh,Other IPC crimes,480
+Northern,Uttarakhand,Other IPC crimes,2230
+Northern,Himachal Pradesh,Other IPC crimes,5997
+Northern,Jammu & Kashmir,Other IPC crimes,8135
+Northern,Punjab,Other IPC crimes,9378
+Northern,Delhi UT,Other IPC crimes,21396
+Northern,Haryana,Other IPC crimes,21923
+Northern,Uttar Pradesh,Other IPC crimes,66277
+Northern,Rajasthan,Other IPC crimes,80297
+Northern,Chandigarh,Rape,59
+Northern,Uttarakhand,Rape,270
+Northern,Himachal Pradesh,Rape,283
+Northern,Jammu & Kashmir,Rape,331
+Northern,Punjab,Rape,981
+Northern,Haryana,Rape,1174
+Northern,Delhi UT,Rape,2096
+Northern,Uttar Pradesh,Rape,3467
+Northern,Rajasthan,Rape,3759
+Northern,Punjab,Riots,0
+Northern,Chandigarh,Riots,33
+Northern,Delhi UT,Riots,160
+Northern,Uttarakhand,Riots,466
+Northern,Himachal Pradesh,Riots,478
+Northern,Rajasthan,Riots,536
+Northern,Jammu & Kashmir,Riots,1527
+Northern,Haryana,Riots,1944
+Northern,Uttar Pradesh,Riots,6438
+Northern,Himachal Pradesh,Robbery,16
+Northern,Chandigarh,Robbery,65
+Northern,Jammu & Kashmir,Robbery,89
+Northern,Uttarakhand,Robbery,155
+Northern,Punjab,Robbery,157
+Northern,Haryana,Robbery,874
+Northern,Rajasthan,Robbery,1301
+Northern,Uttar Pradesh,Robbery,3920
+Northern,Delhi UT,Robbery,6464
+Northern,Himachal Pradesh,Theft,652
+Northern,Chandigarh,Theft,1260
+Northern,Uttarakhand,Theft,1737
+Northern,Jammu & Kashmir,Theft,1773
+Northern,Punjab,Theft,5067
+Northern,Haryana,Theft,20314
+Northern,Rajasthan,Theft,29095
+Northern,Uttar Pradesh,Theft,48380
+Northern,Delhi UT,Theft,78753
+Southern,Puducherry,Dacoity,3
+Southern,Telangana,Dacoity,59
+Southern,Kerala,Dacoity,71
+Southern,Andhra Pradesh,Dacoity,75
+Southern,Tamil Nadu,Dacoity,101
+Southern,Karnataka,Dacoity,292
+Southern,Puducherry,Deaths due to negligent driving/act,198
+Southern,Kerala,Deaths due to negligent driving/act,3321
+Southern,Telangana,Deaths due to negligent driving/act,6356
+Southern,Andhra Pradesh,Deaths due to negligent driving/act,7260
+Southern,Karnataka,Deaths due to negligent driving/act,8764
+Southern,Tamil Nadu,Deaths due to negligent driving/act,14599
+Southern,Puducherry,Dowry Deaths,1
+Southern,Kerala,Dowry Deaths,28
+Southern,Tamil Nadu,Dowry Deaths,95
+Southern,Andhra Pradesh,Dowry Deaths,215
+Southern,Telangana,Dowry Deaths,289
+Southern,Karnataka,Dowry Deaths,313
+Southern,Puducherry,Grievous Hurt,105
+Southern,Andhra Pradesh,Grievous Hurt,597
+Southern,Telangana,Grievous Hurt,1057
+Southern,Tamil Nadu,Grievous Hurt,1519
+Southern,Karnataka,Grievous Hurt,1717
+Southern,Kerala,Grievous Hurt,1827
+Southern,Puducherry,Hurt,105
+Southern,Andhra Pradesh,Hurt,589
+Southern,Telangana,Hurt,1056
+Southern,Tamil Nadu,Hurt,1513
+Southern,Karnataka,Hurt,1712
+Southern,Kerala,Hurt,1823
+Southern,Puducherry,Incidence of Rash Driving,1173
+Southern,Andhra Pradesh,Incidence of Rash Driving,14653
+Southern,Telangana,Incidence of Rash Driving,14953
+Southern,Karnataka,Incidence of Rash Driving,31907
+Southern,Tamil Nadu,Incidence of Rash Driving,52844
+Southern,Kerala,Incidence of Rash Driving,108962
+Southern,Puducherry,Kidnapping & Abduction_Total,13
+Southern,Kerala,Kidnapping & Abduction_Total,222
+Southern,Andhra Pradesh,Kidnapping & Abduction_Total,1066
+Southern,Telangana,Kidnapping & Abduction_Total,1152
+Southern,Tamil Nadu,Kidnapping & Abduction_Total,1746
+Southern,Karnataka,Kidnapping & Abduction_Total,1933
+Southern,Puducherry,Murder,25
+Southern,Kerala,Murder,367
+Southern,Andhra Pradesh,Murder,1175
+Southern,Telangana,Murder,1308
+Southern,Karnataka,Murder,1636
+Southern,Tamil Nadu,Murder,1805
+Southern,Karnataka,Offences against State,0
+Southern,Puducherry,Offences against State,0
+Southern,Tamil Nadu,Offences against State,0
+Southern,Andhra Pradesh,Offences against State,1
+Southern,Telangana,Offences against State,3
+Southern,Kerala,Offences against State,7
+Southern,Puducherry,Other IPC crimes,1336
+Southern,Karnataka,Other IPC crimes,32587
+Southern,Telangana,Other IPC crimes,37013
+Southern,Andhra Pradesh,Other IPC crimes,44187
+Southern,Kerala,Other IPC crimes,55955
+Southern,Tamil Nadu,Other IPC crimes,84665
+Southern,Puducherry,Rape,10
+Southern,Tamil Nadu,Rape,455
+Southern,Andhra Pradesh,Rape,961
+Southern,Telangana,Rape,979
+Southern,Karnataka,Rape,1324
+Southern,Kerala,Rape,1347
+Southern,Puducherry,Riots,39
+Southern,Telangana,Riots,766
+Southern,Andhra Pradesh,Riots,1013
+Southern,Tamil Nadu,Riots,2784
+Southern,Kerala,Riots,5820
+Southern,Karnataka,Riots,6520
+Southern,Puducherry,Robbery,6
+Southern,Telangana,Robbery,308
+Southern,Andhra Pradesh,Robbery,433
+Southern,Kerala,Robbery,869
+Southern,Tamil Nadu,Robbery,1969
+Southern,Karnataka,Robbery,2516
+Southern,Puducherry,Theft,424
+Southern,Kerala,Theft,4700
+Southern,Tamil Nadu,Theft,11969
+Southern,Telangana,Theft,15342
+Southern,Andhra Pradesh,Theft,15617
+Southern,Karnataka,Theft,21019
+Western,D&N Haveli,Dacoity,0
+Western,Daman & Diu,Dacoity,0
+Western,Goa,Dacoity,13
+Western,Gujarat,Dacoity,296
+Western,Maharashtra,Dacoity,885
+Western,Daman & Diu,Deaths due to negligent driving/act,15
+Western,D&N Haveli,Deaths due to negligent driving/act,53
+Western,Goa,Deaths due to negligent driving/act,215
+Western,Gujarat,Deaths due to negligent driving/act,7039
+Western,Maharashtra,Deaths due to negligent driving/act,12039
+Western,D&N Haveli,Dowry Deaths,0
+Western,Daman & Diu,Dowry Deaths,0
+Western,Goa,Dowry Deaths,0
+Western,Gujarat,Dowry Deaths,23
+Western,Maharashtra,Dowry Deaths,279
+Western,D&N Haveli,Grievous Hurt,13
+Western,Daman & Diu,Grievous Hurt,15
+Western,Goa,Grievous Hurt,114
+Western,Gujarat,Grievous Hurt,3363
+Western,Maharashtra,Grievous Hurt,8127
+Western,D&N Haveli,Hurt,13
+Western,Daman & Diu,Hurt,15
+Western,Goa,Hurt,114
+Western,Gujarat,Hurt,3353
+Western,Maharashtra,Hurt,8120
+Western,Daman & Diu,Incidence of Rash Driving,25
+Western,D&N Haveli,Incidence of Rash Driving,34
+Western,Goa,Incidence of Rash Driving,607
+Western,Maharashtra,Incidence of Rash Driving,26060
+Western,Gujarat,Incidence of Rash Driving,29677
+Western,Daman & Diu,Kidnapping & Abduction_Total,10
+Western,D&N Haveli,Kidnapping & Abduction_Total,14
+Western,Goa,Kidnapping & Abduction_Total,152
+Western,Gujarat,Kidnapping & Abduction_Total,2722
+Western,Maharashtra,Kidnapping & Abduction_Total,3793
+Western,D&N Haveli,Murder,4
+Western,Daman & Diu,Murder,7
+Western,Goa,Murder,34
+Western,Gujarat,Murder,1124
+Western,Maharashtra,Murder,2670
+Western,D&N Haveli,Offences against State,0
+Western,Daman & Diu,Offences against State,0
+Western,Goa,Offences against State,0
+Western,Gujarat,Offences against State,0
+Western,Maharashtra,Offences against State,1
+Western,D&N Haveli,Other IPC crimes,30
+Western,Daman & Diu,Other IPC crimes,37
+Western,Goa,Other IPC crimes,721
+Western,Gujarat,Other IPC crimes,52810
+Western,Maharashtra,Other IPC crimes,62286
+Western,Daman & Diu,Rape,2
+Western,D&N Haveli,Rape,5
+Western,Goa,Rape,95
+Western,Gujarat,Rape,841
+Western,Maharashtra,Rape,3438
+Western,Daman & Diu,Riots,4
+Western,D&N Haveli,Riots,6
+Western,Goa,Riots,133
+Western,Gujarat,Riots,1354
+Western,Maharashtra,Riots,7760
+Western,D&N Haveli,Robbery,2
+Western,Daman & Diu,Robbery,5
+Western,Goa,Robbery,32
+Western,Gujarat,Robbery,1209
+Western,Maharashtra,Robbery,9466
+Western,Daman & Diu,Theft,31
+Western,D&N Haveli,Theft,38
+Western,Goa,Theft,1154
+Western,Gujarat,Theft,14337
+Western,Maharashtra,Theft,56283
