@@ -5,29 +5,34 @@ from sklearn.metrics import confusion_matrix, accuracy_score, f1_score, precisio
 
 np.random.seed(0)
 
-data_set = pd.read_csv('data set/test.csv')
+data_set = pd.read_csv('data set/test2014.csv')
 
 data_set['is_train'] = np.random.uniform(0, 1, len(data_set)) <= .75
 
 data_set['Region'] = pd.factorize(data_set['Region'])[0]
 data_set['States/UTs'] = pd.factorize(data_set['States/UTs'])[0]
+data_set['District'] = pd.factorize(data_set['District'])[0]
 data_set['Type'] = pd.factorize(data_set['Type'])[0]
+# print(data_set)
 
 X_train, X_test = data_set[data_set['is_train'] == True], data_set[data_set['is_train'] == False]
 
-features = data_set.columns[1:4]
-print(features)
+# print('No. of obs. in the training data: ', len(X_train))
+# print('No. of obs. in the testing data: ', len(X_test))
 
-y_train = X_train['Region']
+features = data_set.columns[2:5]
+# print(features)
 
-y_test = X_test['Region']
+y_train = X_train['States/UTs']
+
+y_test = X_test['States/UTs']
 X_train = X_train[features]
 X_test = X_test[features]
 
-print(len(X_train))
-print(len(y_train))
-print(len(X_test))
-print(len(y_test))
+# print(len(X_train))
+# print(len(y_train))
+# print(len(X_test))
+# print(len(y_test))
 
 clf = RandomForestClassifier(n_jobs=3, random_state=0)
 
