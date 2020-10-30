@@ -63,7 +63,7 @@ for check in range(8):
     ax0.plot(density[check == density_plot], rate[check == density_plot], 'o')
 
 fig1, axes1 = plt.subplots(3, 3, figsize=(8, 8))
-alldata = np.vstack((population, rate))
+alldata = np.vstack((density, rate))
 fpcs = []
 
 for ncenters, ax in enumerate(axes1.reshape(-1), 2):
@@ -77,7 +77,7 @@ for ncenters, ax in enumerate(axes1.reshape(-1), 2):
     cluster_membership = np.argmax(u, axis=0)
     print(cluster_membership)
     for j in range(ncenters):
-        ax.plot(population[cluster_membership == j],
+        ax.plot(density[cluster_membership == j],
                 rate[cluster_membership == j], '.', color=colors[j])
 
     # Mark the center of each fuzzy cluster

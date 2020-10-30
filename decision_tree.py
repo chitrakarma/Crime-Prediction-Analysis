@@ -1,7 +1,8 @@
-from sklearn.ensemble import RandomForestClassifier
 import pandas as pd
 import numpy as np
+from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import confusion_matrix, accuracy_score, f1_score, precision_score, recall_score
+from sklearn import tree
 
 np.random.seed(0)
 
@@ -29,21 +30,15 @@ print(len(y_train))
 print(len(X_test))
 print(len(y_test))
 
-clf = RandomForestClassifier(n_jobs=5, random_state=1000)
+clf_entropy = DecisionTreeClassifier(criterion="entropy", random_state=0, max_depth=3, min_samples_leaf=5)
+clf_entropy.fit(X_train, y_train)
 
-clf.fit(X_train, y_train)
+y_pred = clf_entropy.predict(X_test)
 
-# print(clf.predict(X_test))
+print(len(y_pred))
 
-print(clf.predict_proba(X_test)[0:10])
-
-preds = clf.predict(X_test)
-
-# # Find accuracy which is 93%
-print(pd.crosstab(y_test, clf.predict(X_test), rownames=['Actual'], colnames=['Predicted']))
-
-print(accuracy_score(y_test, preds))
-print(f1_score(y_test, preds, average='weighted'))
-print(recall_score(y_test, preds, average='weighted'))
-print(precision_score(y_test, preds, average='weighted'))
-print(confusion_matrix(y_test, preds))
+print(accuracy_score(y_test, y_pred))
+print(f1_score(y_test, y_pred, average='weighted'))
+print(recall_score(y_test, y_pred, average='weighted'))
+print(precision_score(y_test, y_pred, average='weighted'))
+# print(confusion_matrix(y_test, y_pred))

@@ -1,8 +1,14 @@
-from sklearn.ensemble import RandomForestClassifier
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.naive_bayes import GaussianNB
+from sklearn.pipeline import make_pipeline
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns; sns.set()
 from sklearn.metrics import confusion_matrix, accuracy_score, f1_score, precision_score, recall_score
 
+# model = make_pipeline(TfidfVectorizer(), MultinomialNB())
+model = GaussianNB()
 np.random.seed(0)
 
 data_set = pd.read_csv('data set/Datasets for prediction/random_forest.csv')
@@ -29,18 +35,10 @@ print(len(y_train))
 print(len(X_test))
 print(len(y_test))
 
-clf = RandomForestClassifier(n_jobs=5, random_state=1000)
-
-clf.fit(X_train, y_train)
-
-# print(clf.predict(X_test))
-
-print(clf.predict_proba(X_test)[0:10])
-
-preds = clf.predict(X_test)
-
-# # Find accuracy which is 93%
-print(pd.crosstab(y_test, clf.predict(X_test), rownames=['Actual'], colnames=['Predicted']))
+# print(X_train.shape[0] == y_train.shape[0])
+#
+model.fit(X_train, y_train)
+preds = model.predict(X_test)
 
 print(accuracy_score(y_test, preds))
 print(f1_score(y_test, preds, average='weighted'))
