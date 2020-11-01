@@ -4,7 +4,7 @@ from sklearn.pipeline import make_pipeline
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import seaborn as sns; sns.set()
+# import seaborn as sns; sns.set()
 from sklearn.metrics import confusion_matrix, accuracy_score, f1_score, precision_score, recall_score
 
 # model = make_pipeline(TfidfVectorizer(), MultinomialNB())
