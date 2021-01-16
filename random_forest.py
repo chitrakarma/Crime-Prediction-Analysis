@@ -45,5 +45,5 @@ print(pd.crosstab(y_test, clf.predict(X_test), rownames=['Actual'], colnames=['P
 print(accuracy_score(y_test, preds))
 print(f1_score(y_test, preds, average='weighted'))
 print(recall_score(y_test, preds, average='weighted'))
-print(precision_score(y_test, preds, average='weighted'))
+# print(precision_score(y_test, preds, average='weighted'))
 print(confusion_matrix(y_test, preds))
