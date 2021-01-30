@@ -2,6 +2,7 @@ from sklearn.ensemble import RandomForestClassifier
 import pandas as pd
 import numpy as np
 from sklearn.metrics import confusion_matrix, accuracy_score, f1_score, precision_score, recall_score
+from sklearn import tree
 
 np.random.seed(0)
 
@@ -33,6 +34,8 @@ clf = RandomForestClassifier(n_jobs=5, random_state=1000)
 
 clf.fit(X_train, y_train)
 
+clf_tree = clf.fit(X_train, y_train)
+
 # print(clf.predict(X_test))
 
 print(clf.predict_proba(X_test)[0:10])
@@ -47,3 +50,5 @@ print(f1_score(y_test, preds, average='weighted'))
 print(recall_score(y_test, preds, average='weighted'))
 # print(precision_score(y_test, preds, average='weighted'))
 print(confusion_matrix(y_test, preds))
+
+# tree.plot_tree(clf_tree)
