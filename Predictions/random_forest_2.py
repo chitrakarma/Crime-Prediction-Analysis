@@ -5,7 +5,7 @@ from sklearn.metrics import confusion_matrix, accuracy_score, f1_score, precisio
 
 np.random.seed(0)
 
-data_set = pd.read_csv('../data set/Datasets for prediction/random_forest_2.csv')
+data_set = pd.read_csv('../Data Set/Datasets for prediction/random_forest_2.csv')
 
 data_set['is_train'] = np.random.uniform(0, 1, len(data_set)) <= .75
 
