@@ -6,7 +6,7 @@ import skfuzzy as fuzz
 
 colors = ['b', 'orange', 'g', 'r', 'c', 'm', 'y', 'k', 'Brown', 'ForestGreen']
 
-data_set = pd.read_csv('../data set/Datasets for prediction/violent_crimes.csv')
+data_set = pd.read_csv('../Data Set/Datasets for prediction/violent_crimes.csv')
 population = np.array(data_set['Population'])
 population_percent = np.array(data_set['Population Percent'])
 cases = np.array(data_set['Cases'])
